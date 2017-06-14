@@ -1,0 +1,684 @@
+Source,Target,Label
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Eileen Crompton</PERSON>,Edge from Shipman from Mrs Eileen Crompton
+<PERSON>Mrs Edith Brock</PERSON>,<PERSON>Mrs Elsie Cheetham</PERSON>,Edge from Mrs Edith Brock from Mrs Elsie Cheetham
+<PERSON>James Edward Barnes</PERSON>,<PERSON>Margaret Sankey</PERSON>,Edge from James Edward Barnes from Margaret Sankey
+<PERSON>Mrs Hall</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hall from Shipman
+<PERSON>Lewis</PERSON>,<PERSON>Frederick Dentith</PERSON>,Edge from Lewis from Frederick Dentith
+<PERSON>Ernest Ralphs</PERSON>,<PERSON>Mrs Jose Richards</PERSON>,Edge from Ernest Ralphs from Mrs Jose Richards
+<PERSON>Charles Howorth</PERSON>,<PERSON>George Davies</PERSON>,Edge from Charles Howorth from George Davies
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Renate Overton</PERSON>,Edge from Shipman from Mrs Renate Overton
+<PERSON>Avril Sparkes</PERSON>,<PERSON>Shipman</PERSON>,Edge from Avril Sparkes from Shipman
+<PERSON>Chadwick Wilfred</PERSON>,<PERSON>Challinor Ivy Elizabeth</PERSON>,Edge from Chadwick Wilfred from Challinor Ivy Elizabeth
+<PERSON>Mrs Lilley</PERSON>,<PERSON>Mr Lilley</PERSON>,Edge from Mrs Lilley from Mr Lilley
+<PERSON>John Rutherford</PERSON>,<PERSON>Mrs Lilley</PERSON>,Edge from John Rutherford from Mrs Lilley
+<PERSON>Mrs Hadfield</PERSON>,<PERSON>Mrs West</PERSON>,Edge from Mrs Hadfield from Mrs West
+<PERSON>Hillier</PERSON>,<PERSON>Shipman</PERSON>,Edge from Hillier from Shipman
+<PERSON>Mrs Elsie Platt</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Elsie Platt from Shipman
+<PERSON>Moss</PERSON>,<PERSON>Mrs Morley</PERSON>,Edge from Moss from Mrs Morley
+<PERSON>Beatrice Toft</PERSON>,<PERSON>Annie Watkins</PERSON>,Edge from Beatrice Toft from Annie Watkins
+<PERSON>James Pickup</PERSON>,<PERSON>Shipman</PERSON>,Edge from James Pickup from Shipman
+<PERSON>Kathleen Wagstaff</PERSON>,<PERSON>Shipman</PERSON>,Edge from Kathleen Wagstaff from Shipman
+<PERSON>Mrs Fanny Nichols</PERSON>,<PERSON>Mrs Marjorie Parker</PERSON>,Edge from Mrs Fanny Nichols from Mrs Marjorie Parker
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Wagstaff</PERSON>,Edge from Shipman from Mrs Wagstaff
+<PERSON>Shipman</PERSON>,<PERSON>Amy Whitehead</PERSON>,Edge from Shipman from Amy Whitehead
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Elsie Platt</PERSON>,Edge from Shipman from Mrs Elsie Platt
+<PERSON>Derek Carroll</PERSON>,<PERSON>Ian Napier</PERSON>,Edge from Derek Carroll from Ian Napier
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Cheetham</PERSON>,Edge from Shipman from Mrs Cheetham
+<PERSON>Shipman</PERSON>,<PERSON>Alan Banks</PERSON>,Edge from Shipman from Alan Banks
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Crompton</PERSON>,Edge from Shipman from Mrs Crompton
+<PERSON>Mary Ogden</PERSON>,<PERSON>Grenville</PERSON>,Edge from Mary Ogden from Grenville
+<PERSON>Mary Coutts</PERSON>,<PERSON>Grenville</PERSON>,Edge from Mary Coutts from Grenville
+<PERSON>Mrs Lilley</PERSON>,<PERSON>Mrs Wagstaff</PERSON>,Edge from Mrs Lilley from Mrs Wagstaff
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Mary Smith</PERSON>,Edge from Shipman from Mrs Mary Smith
+<PERSON>Mrs Brady</PERSON>,<PERSON>Rodney Turner</PERSON>,Edge from Mrs Brady from Rodney Turner
+<PERSON>Belk</PERSON>,<PERSON>Shipman</PERSON>,Edge from Belk from Shipman
+<PERSON>Mrs Ashton</PERSON>,<PERSON>Mrs Ashton</PERSON>,Edge from Mrs Ashton from Mrs Ashton
+<PERSON>Dorothy Andrew</PERSON>,<PERSON>Mrs Irene</PERSON>,Edge from Dorothy Andrew from Mrs Irene
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Laithwaite</PERSON>,Edge from Shipman from Mrs Laithwaite
+<PERSON>Shipman</PERSON>,<PERSON>Philip Humberstone</PERSON>,Edge from Shipman from Philip Humberstone
+<PERSON>Mrs Pearce</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Pearce from Shipman
+<PERSON>Mrs Woodruff</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from Mrs Woodruff from Mrs Grundy
+<PERSON>Mrs Slater</PERSON>,<PERSON>James Slater</PERSON>,Edge from Mrs Slater from James Slater
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Beatrice Toft</PERSON>,Edge from Shipman from Mrs Beatrice Toft
+<PERSON>Mrs Chapman</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Chapman from Shipman
+<PERSON>Dirckze</PERSON>,<PERSON>Dirckze</PERSON>,Edge from Dirckze from Dirckze
+<PERSON>Winifred Mellor</PERSON>,<PERSON>Mrs Marie Quinn</PERSON>,Edge from Winifred Mellor from Mrs Marie Quinn
+<PERSON>Cartwright Hannah</PERSON>,<PERSON>Chadwick Wilfred</PERSON>,Edge from Cartwright Hannah from Chadwick Wilfred
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Kathleen Grundy</PERSON>,Edge from Shipman from Mrs Kathleen Grundy
+<PERSON>Valerie Lomax</PERSON>,<PERSON>Mrs Arrowsmith</PERSON>,Edge from Valerie Lomax from Mrs Arrowsmith
+<PERSON>Mrs Brady</PERSON>,<PERSON>Mrs Brady</PERSON>,Edge from Mrs Brady from Mrs Brady
+<PERSON>Mrs O’Neill</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs O’Neill from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Overton</PERSON>,Edge from Shipman from Mrs Overton
+<PERSON>Sarah Ashworth</PERSON>,<PERSON>Mrs Alice Kitchen</PERSON>,Edge from Sarah Ashworth from Mrs Alice Kitchen
+<PERSON>Deborah Middleton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Deborah Middleton from Shipman
+<PERSON>Bertha Moss</PERSON>,<PERSON>Shipman</PERSON>,Edge from Bertha Moss from Shipman
+<PERSON>Mrs Alison Forder</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Alison Forder from Shipman
+<PERSON>Irene Heathcote</PERSON>,<PERSON>Samuel Mills</PERSON>,Edge from Irene Heathcote from Samuel Mills
+<PERSON>Mrs Pleva</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Pleva from Shipman
+<PERSON>Neighbours</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from Neighbours from Mrs Grundy
+<PERSON>Mrs Cox</PERSON>,<PERSON>Mrs Susan Davies</PERSON>,Edge from Mrs Cox from Mrs Susan Davies
+<PERSON>Mrs Quinn</PERSON>,<PERSON>John Quinn</PERSON>,Edge from Mrs Quinn from John Quinn
+<PERSON>Carol Chapman</PERSON>,<PERSON>Mrs Wagstaff</PERSON>,Edge from Carol Chapman from Mrs Wagstaff
+<PERSON>Mrs Dudley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Dudley from Shipman
+<PERSON>Crompton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Crompton from Shipman
+<PERSON>Mrs Lomas</PERSON>,<PERSON>Hyde</PERSON>,Edge from Mrs Lomas from Hyde
+<PERSON>Jones Alice Mary</PERSON>,<PERSON>Jones David</PERSON>,Edge from Jones Alice Mary from Jones David
+<PERSON>Ada Matley Hilton</PERSON>,<PERSON>Irene Aitken</PERSON>,Edge from Ada Matley Hilton from Irene Aitken
+<PERSON>Mrs Elsie Cheetham</PERSON>,<PERSON>Mrs Erla Copeland</PERSON>,Edge from Mrs Elsie Cheetham from Mrs Erla Copeland
+<PERSON>Mr West</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mr West from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Alice Thomas</PERSON>,Edge from Shipman from Mrs Alice Thomas
+<PERSON>Mrs Marsland</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Marsland from Shipman
+<PERSON>Mrs Norma Miles</PERSON>,<PERSON>Mrs Winterbottom</PERSON>,Edge from Mrs Norma Miles from Mrs Winterbottom
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Brookes</PERSON>,Edge from Shipman from Mrs Brookes
+<PERSON>Mrs Hilda Hibbert</PERSON>,<PERSON>Charles Killan</PERSON>,Edge from Mrs Hilda Hibbert from Charles Killan
+<PERSON>Mrs Simpson</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Simpson from Shipman
+<PERSON>Mrs Roberts</PERSON>,<PERSON>Mrs Lyons</PERSON>,Edge from Mrs Roberts from Mrs Lyons
+<PERSON>• Shipman</PERSON>,<PERSON>Mrs Quinn</PERSON>,Edge from • Shipman from Mrs Quinn
+<PERSON>Henry Palin</PERSON>,<PERSON>Andrew Griffiths</PERSON>,Edge from Henry Palin from Andrew Griffiths
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Smith</PERSON>,Edge from Shipman from Mrs Smith
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Jackson</PERSON>,Edge from Shipman from Mrs Jackson
+<PERSON>Mrs Massey</PERSON>,<PERSON>Mrs Cocker</PERSON>,Edge from Mrs Massey from Mrs Cocker
+<PERSON>Mrs Lilley</PERSON>,<PERSON>Mrs Hunter</PERSON>,Edge from Mrs Lilley from Mrs Hunter
+<PERSON>Grenville</PERSON>,<PERSON>Mrs Charlotte Bennison</PERSON>,Edge from Grenville from Mrs Charlotte Bennison
+<PERSON>Joan Milray Harding</PERSON>,<PERSON>Shipman</PERSON>,Edge from Joan Milray Harding from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from Shipman from Mrs Grundy
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Lyons</PERSON>,Edge from Shipman from Mrs Lyons
+<PERSON>Lily Broadbent</PERSON>,<PERSON>James Wood</PERSON>,Edge from Lily Broadbent from James Wood
+<PERSON>Howat</PERSON>,<PERSON>Dr Bunn</PERSON>,Edge from Howat from Dr Bunn
+<PERSON>Mrs Elsie Hannible</PERSON>,<PERSON>Mrs Irene Heathcote</PERSON>,Edge from Mrs Elsie Hannible from Mrs Irene Heathcote
+<PERSON>John Green</PERSON>,<PERSON>Ronald Pickford</PERSON>,Edge from John Green from Ronald Pickford
+<PERSON>Edward Walker</PERSON>,<PERSON>Margaret Wilmore</PERSON>,Edge from Edward Walker from Margaret Wilmore
+<PERSON>Grenville</PERSON>,<PERSON>Mrs Turner</PERSON>,Edge from Grenville from Mrs Turner
+<PERSON>Shipman</PERSON>,<PERSON>Harold Eddleston</PERSON>,Edge from Shipman from Harold Eddleston
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Thorley</PERSON>,Edge from Shipman from Mrs Thorley
+<PERSON>Mrs Alice Gorton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Alice Gorton from Shipman
+<PERSON>Morgan</PERSON>,<PERSON>Mrs Hillier</PERSON>,Edge from Morgan from Mrs Hillier
+<PERSON>Mrs Nuttall</PERSON>,<PERSON>Mrs Nuttall</PERSON>,Edge from Mrs Nuttall from Mrs Nuttall
+<PERSON>Shipman</PERSON>,<PERSON>Bennett</PERSON>,Edge from Shipman from Bennett
+<PERSON>Alan Tait</PERSON>,<PERSON>Shipman</PERSON>,Edge from Alan Tait from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Ann Cooper</PERSON>,Edge from Shipman from Ann Cooper
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Ada Hilton</PERSON>,Edge from Shipman from Mrs Ada Hilton
+<PERSON>John Dacre</PERSON>,<PERSON>Mrs Primrose Shipman</PERSON>,Edge from John Dacre from Mrs Primrose Shipman
+<PERSON>Paul Gilroy</PERSON>,<PERSON>Andrew Spink</PERSON>,Edge from Paul Gilroy from Andrew Spink
+<PERSON>Laura Kathleen Wagstaff</PERSON>,<PERSON>Mrs Bianka Pomfret</PERSON>,Edge from Laura Kathleen Wagstaff from Mrs Bianka Pomfret
+<PERSON>Mrs Tomlin</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Tomlin from Shipman
+<PERSON>Healthcall</PERSON>,<PERSON>Shipman</PERSON>,Edge from Healthcall from Shipman
+<PERSON>Mrs Middleton</PERSON>,<PERSON>Mrs Jacqueline Slaney</PERSON>,Edge from Mrs Middleton from Mrs Jacqueline Slaney
+<PERSON>Richard Baker</PERSON>,<PERSON>Shipman</PERSON>,Edge from Richard Baker from Shipman
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Mrs Angela Woodruff</PERSON>,Edge from Mrs Grundy from Mrs Angela Woodruff
+<PERSON>Hyde</PERSON>,<PERSON>Shipman</PERSON>,Edge from Hyde from Shipman
+<PERSON>• Shipman</PERSON>,<PERSON>Mrs Turner</PERSON>,Edge from • Shipman from Mrs Turner
+<PERSON>Hyde</PERSON>,<PERSON>Hyde</PERSON>,Edge from Hyde from Hyde
+<PERSON>Adams</PERSON>,<PERSON>Shipman</PERSON>,Edge from Adams from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Scott</PERSON>,Edge from Shipman from Scott
+<PERSON>George McKeating</PERSON>,<PERSON>Shipman</PERSON>,Edge from George McKeating from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Toft</PERSON>,Edge from Shipman from Toft
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from Shipman from Mrs Adams
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Shawcross</PERSON>,Edge from Shipman from Mrs Shawcross
+<PERSON>Mrs Sellars</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Sellars from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Llewellyn</PERSON>,Edge from Shipman from Mrs Llewellyn
+<PERSON>Mrs Conway</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Conway from Shipman
+<PERSON>Patel</PERSON>,<PERSON>Shipman</PERSON>,Edge from Patel from Shipman
+<PERSON>Morgan</PERSON>,<PERSON>Shipman</PERSON>,Edge from Morgan from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Green</PERSON>,Edge from Shipman from Green
+<PERSON>Henry McQuay</PERSON>,<PERSON>McQuay</PERSON>,Edge from Henry McQuay from McQuay
+<PERSON>Mrs Foley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Foley from Shipman
+<PERSON>Neal</PERSON>,<PERSON>Neal</PERSON>,Edge from Neal from Neal
+<PERSON>Thomas Cheetham</PERSON>,<PERSON>Elsie</PERSON>,Edge from Thomas Cheetham from Elsie
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Foley</PERSON>,Edge from Shipman from Mrs Foley
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Forder</PERSON>,Edge from Shipman from Mrs Forder
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Bardsley</PERSON>,Edge from Shipman from Mrs Bardsley
+<PERSON>Cicely</PERSON>,<PERSON>Shipman</PERSON>,Edge from Cicely from Shipman
+<PERSON>Edna Llewellyn</PERSON>,<PERSON>Grenville</PERSON>,Edge from Edna Llewellyn from Grenville
+<PERSON>Frank Halliday</PERSON>,<PERSON>Shipman</PERSON>,Edge from Frank Halliday from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Hall</PERSON>,Edge from Shipman from Mrs Hall
+<PERSON>Shipman</PERSON>,<PERSON>Dorothy Rowarth</PERSON>,Edge from Shipman from Dorothy Rowarth
+<PERSON>Mrs Pomfret</PERSON>,<PERSON>Mrs Pomfret</PERSON>,Edge from Mrs Pomfret from Mrs Pomfret
+<PERSON>Mrs Margaret Walker</PERSON>,<PERSON>Primrose Shipman</PERSON>,Edge from Mrs Margaret Walker from Primrose Shipman
+<PERSON>Mrs Wagstaff</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Wagstaff from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Brooke</PERSON>,Edge from Shipman from Brooke
+<PERSON>Mrs Nuttall</PERSON>,<PERSON>Mrs Mellor</PERSON>,Edge from Mrs Nuttall from Mrs Mellor
+<PERSON>Shipman</PERSON>,<PERSON>Kenneth Woodhead</PERSON>,Edge from Shipman from Kenneth Woodhead
+<PERSON>Annie Watkins</PERSON>,<PERSON>Lily Broadbent</PERSON>,Edge from Annie Watkins from Lily Broadbent
+<PERSON>Gerard McDermott</PERSON>,<PERSON>David Eccles</PERSON>,Edge from Gerard McDermott from David Eccles
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Nellie Bardsley</PERSON>,Edge from Shipman from Mrs Nellie Bardsley
+<PERSON>Mrs Martha Marley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Martha Marley from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Hyde</PERSON>,Edge from Shipman from Hyde
+<PERSON>Shipman</PERSON>,<PERSON>Fredrick</PERSON>,Edge from Shipman from Fredrick
+<PERSON>Mrs Arrowsmith</PERSON>,<PERSON>Mrs Unsworth</PERSON>,Edge from Mrs Arrowsmith from Mrs Unsworth
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Renwick</PERSON>,Edge from Shipman from Mrs Renwick
+<PERSON>Shipman</PERSON>,<PERSON>Moira Fox</PERSON>,Edge from Shipman from Moira Fox
+<PERSON>Ita Langan</PERSON>,<PERSON>Kennedy</PERSON>,Edge from Ita Langan from Kennedy
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Richards</PERSON>,Edge from Shipman from Mrs Richards
+<PERSON>Eileen Crompton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Eileen Crompton from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Lilley</PERSON>,Edge from Shipman from Lilley
+<PERSON>Shipman</PERSON>,<PERSON>Dudley</PERSON>,Edge from Shipman from Dudley
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Elizabeth Fletcher</PERSON>,Edge from Shipman from Mrs Elizabeth Fletcher
+<PERSON>Ruth Stockley</PERSON>,<PERSON>Mrs Kate Oldfield</PERSON>,Edge from Ruth Stockley from Mrs Kate Oldfield
+<PERSON>Lomas</PERSON>,<PERSON>Shipman</PERSON>,Edge from Lomas from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Nuttall</PERSON>,Edge from Shipman from Mrs Nuttall
+<PERSON>Shipman</PERSON>,<PERSON>Thomas Fowden</PERSON>,Edge from Shipman from Thomas Fowden
+<PERSON>Shipman</PERSON>,<PERSON>Mrs McEvilly</PERSON>,Edge from Shipman from Mrs McEvilly
+<PERSON>Johnson Richard</PERSON>,<PERSON>Johnston Leah</PERSON>,Edge from Johnson Richard from Johnston Leah
+<PERSON>Shipman</PERSON>,<PERSON>Cheetham</PERSON>,Edge from Shipman from Cheetham
+<PERSON>Shipman</PERSON>,<PERSON>Winterbottom</PERSON>,Edge from Shipman from Winterbottom
+<PERSON>Mrs Grimshaw</PERSON>,<PERSON>Ward</PERSON>,Edge from Mrs Grimshaw from Ward
+<PERSON>Mrs Marjorie Waller</PERSON>,<PERSON>Mrs Mary Walls</PERSON>,Edge from Mrs Marjorie Waller from Mrs Mary Walls
+<PERSON>Mrs Annie Powers</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Annie Powers from Shipman
+<PERSON>Mrs Kathleen Wagstaff</PERSON>,<PERSON>Maureen Ward</PERSON>,Edge from Mrs Kathleen Wagstaff from Maureen Ward
+<PERSON>Mrs Maria West</PERSON>,<PERSON>Mrs Lizzie Adams</PERSON>,Edge from Mrs Maria West from Mrs Lizzie Adams
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Mrs Woodruff</PERSON>,Edge from Mrs Grundy from Mrs Woodruff
+<PERSON>Edith Brady</PERSON>,<PERSON>Shipman</PERSON>,Edge from Edith Brady from Shipman
+<PERSON>Mrs Adams</PERSON>,<PERSON>Mrs Thorley</PERSON>,Edge from Mrs Adams from Mrs Thorley
+<PERSON>Mrs Jessie Morley</PERSON>,<PERSON>Moss</PERSON>,Edge from Mrs Jessie Morley from Moss
+<PERSON>Judith Page</PERSON>,<PERSON>Shipman</PERSON>,Edge from Judith Page from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Wojciech Kucharczyk</PERSON>,Edge from Shipman from Wojciech Kucharczyk
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Muriel Grimshaw</PERSON>,Edge from Shipman from Mrs Muriel Grimshaw
+<PERSON>Walter Tingle</PERSON>,<PERSON>Shipman</PERSON>,Edge from Walter Tingle from Shipman
+<PERSON>Jean Lilley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Jean Lilley from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Stafford</PERSON>,Edge from Shipman from Stafford
+<PERSON>Shipman</PERSON>,<PERSON>Ernest Ralphs</PERSON>,Edge from Shipman from Ernest Ralphs
+<PERSON>Mrs Tucker</PERSON>,<PERSON>Mrs Mary Bennett</PERSON>,Edge from Mrs Tucker from Mrs Mary Bennett
+<PERSON>Shipman</PERSON>,<PERSON>Jane Rostron</PERSON>,Edge from Shipman from Jane Rostron
+<PERSON>Michael Connors</PERSON>,<PERSON>Phyllis Oxley</PERSON>,Edge from Michael Connors from Phyllis Oxley
+<PERSON>Bardsley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Bardsley from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Gladys Roberts</PERSON>,Edge from Shipman from Mrs Gladys Roberts
+<PERSON>Derek Steele</PERSON>,<PERSON>Shipman</PERSON>,Edge from Derek Steele from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Slater</PERSON>,Edge from Shipman from Mrs Slater
+<PERSON>Mrs Bennett</PERSON>,<PERSON>Mrs Tucker</PERSON>,Edge from Mrs Bennett from Mrs Tucker
+<PERSON>Mrs Dalpiaz</PERSON>,<PERSON>Mrs Lomas</PERSON>,Edge from Mrs Dalpiaz from Mrs Lomas
+<PERSON>Mrs Laithwaite</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Laithwaite from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Cooper</PERSON>,Edge from Shipman from Cooper
+<PERSON>John Grenville</PERSON>,<PERSON>Mrs Wagstaff</PERSON>,Edge from John Grenville from Mrs Wagstaff
+<PERSON>Steele</PERSON>,<PERSON>Mrs Melia</PERSON>,Edge from Steele from Mrs Melia
+<PERSON>Mrs Lilian Cullen</PERSON>,<PERSON>Mrs Valerie Cuthbert</PERSON>,Edge from Mrs Lilian Cullen from Mrs Valerie Cuthbert
+<PERSON>Mrs Nellie Mullen</PERSON>,<PERSON>Edna Llewellyn</PERSON>,Edge from Mrs Nellie Mullen from Edna Llewellyn
+<PERSON>Irene Turner</PERSON>,<PERSON>Jean Lilley</PERSON>,Edge from Irene Turner from Jean Lilley
+<PERSON>Irene Chapman</PERSON>,<PERSON>Mrs Shipman</PERSON>,Edge from Irene Chapman from Mrs Shipman
+<PERSON>Norah Nuttall</PERSON>,<PERSON>Mrs Kathleen Wagstaff</PERSON>,Edge from Norah Nuttall from Mrs Kathleen Wagstaff
+<PERSON>Mrs Lavinia Wharmby</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Lavinia Wharmby from Shipman
+<PERSON>Thomas Moult</PERSON>,<PERSON>Mrs Mildred Robinson</PERSON>,Edge from Thomas Moult from Mrs Mildred Robinson
+<PERSON>Phillip Reade</PERSON>,<PERSON>Mrs Lomas</PERSON>,Edge from Phillip Reade from Mrs Lomas
+<PERSON>Mrs Olive Heginbotham</PERSON>,<PERSON>Grenville</PERSON>,Edge from Mrs Olive Heginbotham from Grenville
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Tucker</PERSON>,Edge from Shipman from Mrs Tucker
+<PERSON>Mrs Angela Woodruff</PERSON>,<PERSON>John Fitzgerald</PERSON>,Edge from Mrs Angela Woodruff from John Fitzgerald
+<PERSON>Mrs Powers</PERSON>,<PERSON>Mrs Kaye</PERSON>,Edge from Mrs Powers from Mrs Kaye
+<PERSON>Mrs Wood</PERSON>,<PERSON>Kellett</PERSON>,Edge from Mrs Wood from Kellett
+<PERSON>Hyde</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from Hyde from Mrs Grundy
+<PERSON>Joan Harding</PERSON>,<PERSON>Mrs Ivy Lomas</PERSON>,Edge from Joan Harding from Mrs Ivy Lomas
+<PERSON>Mrs Ashworth</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Ashworth from Shipman
+<PERSON>Kathlyn Kaye</PERSON>,<PERSON>Mrs Annie Powers</PERSON>,Edge from Kathlyn Kaye from Mrs Annie Powers
+<PERSON>Milne</PERSON>,<PERSON>Shipman</PERSON>,Edge from Milne from Shipman
+<PERSON>Hugo Milne</PERSON>,<PERSON>Shipman</PERSON>,Edge from Hugo Milne from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Mellor</PERSON>,Edge from Shipman from Mrs Mellor
+<PERSON>Mrs Grimshaw</PERSON>,<PERSON>Mrs Ryan</PERSON>,Edge from Mrs Grimshaw from Mrs Ryan
+<PERSON>John Howcroft</PERSON>,<PERSON>Grenville</PERSON>,Edge from John Howcroft from Grenville
+<PERSON>Nuttall</PERSON>,<PERSON>Shipman</PERSON>,Edge from Nuttall from Shipman
+<PERSON>Harrison</PERSON>,<PERSON>Shipman</PERSON>,Edge from Harrison from Shipman
+<PERSON>Mrs Jacqueline Gee</PERSON>,<PERSON>Mrs Hillier</PERSON>,Edge from Mrs Jacqueline Gee from Mrs Hillier
+<PERSON>Catlow</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from Catlow from Mrs Adams
+<PERSON>Richard Lissack</PERSON>,<PERSON>Paul Gilroy</PERSON>,Edge from Richard Lissack from Paul Gilroy
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Rostron</PERSON>,Edge from Shipman from Mrs Rostron
+<PERSON>Thorley</PERSON>,<PERSON>Thorley</PERSON>,Edge from Thorley from Thorley
+<PERSON>Mrs Fogg</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Fogg from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mary Dudley</PERSON>,Edge from Shipman from Mary Dudley
+<PERSON>Mrs Lilley</PERSON>,<PERSON>Mrs Lilley</PERSON>,Edge from Mrs Lilley from Mrs Lilley
+<PERSON>Mrs Hutchinson</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hutchinson from Shipman
+<PERSON>Alice Black</PERSON>,<PERSON>James Joseph King</PERSON>,Edge from Alice Black from James Joseph King
+<PERSON>Harold Eddleston</PERSON>,<PERSON>Grenville</PERSON>,Edge from Harold Eddleston from Grenville
+<PERSON>Mellor Elizabeth Ellen</PERSON>,<PERSON>Mellor Samuel</PERSON>,Edge from Mellor Elizabeth Ellen from Mellor Samuel
+<PERSON>Grieve</PERSON>,<PERSON>Shipman</PERSON>,Edge from Grieve from Shipman
+<PERSON>Mary Ivy Birchall</PERSON>,<PERSON>Warren</PERSON>,Edge from Mary Ivy Birchall from Warren
+<PERSON>Jean Lilley</PERSON>,<PERSON>Irene Turner</PERSON>,Edge from Jean Lilley from Irene Turner
+<PERSON>John Grenville</PERSON>,<PERSON>Mrs Melia</PERSON>,Edge from John Grenville from Mrs Melia
+<PERSON>Mrs Edna Llewellyn</PERSON>,<PERSON>Charles Brocklehurst</PERSON>,Edge from Mrs Edna Llewellyn from Charles Brocklehurst
+<PERSON>Horsfall</PERSON>,<PERSON>Alan Banks</PERSON>,Edge from Horsfall from Alan Banks
+<PERSON>Mr West</PERSON>,<PERSON>Mrs West</PERSON>,Edge from Mr West from Mrs West
+<PERSON>Mrs Jones</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Jones from Shipman
+<PERSON>Mrs Marjorie Stafford</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Marjorie Stafford from Shipman
+<PERSON>Dacre</PERSON>,<PERSON>Shipman</PERSON>,Edge from Dacre from Shipman
+<PERSON>Catlow</PERSON>,<PERSON>Shipman</PERSON>,Edge from Catlow from Shipman
+<PERSON>Bardsley Nellie</PERSON>,<PERSON>Barker Elsie</PERSON>,Edge from Bardsley Nellie from Barker Elsie
+<PERSON>Shipman</PERSON>,<PERSON>Joseph Everall</PERSON>,Edge from Shipman from Joseph Everall
+<PERSON>James Joseph King</PERSON>,<PERSON>Mabel Shawcross</PERSON>,Edge from James Joseph King from Mabel Shawcross
+<PERSON>Shipman</PERSON>,<PERSON>Whittingslow</PERSON>,Edge from Shipman from Whittingslow
+<PERSON>Mrs Mary Bennett</PERSON>,<PERSON>Mrs Tucker</PERSON>,Edge from Mrs Mary Bennett from Mrs Tucker
+<PERSON>Alice Carrington</PERSON>,<PERSON>Ada Matley Hilton</PERSON>,Edge from Alice Carrington from Ada Matley Hilton
+<PERSON>Mrs Whitehead</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Whitehead from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mr Justice Forbes</PERSON>,Edge from Shipman from Mr Justice Forbes
+<PERSON>Shipman</PERSON>,<PERSON>Warburton</PERSON>,Edge from Shipman from Warburton
+<PERSON>Howat</PERSON>,<PERSON>Shipman</PERSON>,Edge from Howat from Shipman
+<PERSON>Mrs Lily Higgins</PERSON>,<PERSON>Mrs Anne Ralphs</PERSON>,Edge from Mrs Lily Higgins from Mrs Anne Ralphs
+<PERSON>Grimshaw</PERSON>,<PERSON>Mrs Grimshaw</PERSON>,Edge from Grimshaw from Mrs Grimshaw
+<PERSON>Ernest Colin Ralphs</PERSON>,<PERSON>James Edward Barnes</PERSON>,Edge from Ernest Colin Ralphs from James Edward Barnes
+<PERSON>Kathleen Grundy</PERSON>,<PERSON>Mrs Bianka Pomfret</PERSON>,Edge from Kathleen Grundy from Mrs Bianka Pomfret
+<PERSON>Halliday</PERSON>,<PERSON>Halliday</PERSON>,Edge from Halliday from Halliday
+<PERSON>Kevin Naylor</PERSON>,<PERSON>Nick Rawson</PERSON>,Edge from Kevin Naylor from Nick Rawson
+<PERSON>Halliday</PERSON>,<PERSON>Shipman</PERSON>,Edge from Halliday from Shipman
+<PERSON>Mrs Adams</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from Mrs Adams from Mrs Adams
+<PERSON>Shipman</PERSON>,<PERSON>Mr Wagstaff</PERSON>,Edge from Shipman from Mr Wagstaff
+<PERSON>Mrs Valerie Cuthbert</PERSON>,<PERSON>Mrs Elsie Dean</PERSON>,Edge from Mrs Valerie Cuthbert from Mrs Elsie Dean
+<PERSON>Mrs Turner</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Turner from Shipman
+<PERSON>Thomas Condon</PERSON>,<PERSON>Caroline Mary Taylor</PERSON>,Edge from Thomas Condon from Caroline Mary Taylor
+<PERSON>Kathleen Wagstaff</PERSON>,<PERSON>Mrs Lizzie Adams</PERSON>,Edge from Kathleen Wagstaff from Mrs Lizzie Adams
+<PERSON>Mrs Laithwaite</PERSON>,<PERSON>Bardsley</PERSON>,Edge from Mrs Laithwaite from Bardsley
+<PERSON>Shipman</PERSON>,<PERSON>Ellen Higson</PERSON>,Edge from Shipman from Ellen Higson
+<PERSON>Jones</PERSON>,<PERSON>Shipman</PERSON>,Edge from Jones from Shipman
+<PERSON>Isherwood</PERSON>,<PERSON>Shipman</PERSON>,Edge from Isherwood from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Jim Howat</PERSON>,Edge from Shipman from Jim Howat
+<PERSON>Squire Barber</PERSON>,<PERSON>Mrs Rose Garlick</PERSON>,Edge from Squire Barber from Mrs Rose Garlick
+<PERSON>Shipman</PERSON>,<PERSON>John Nuttall</PERSON>,Edge from Shipman from John Nuttall
+<PERSON>Bardsley</PERSON>,<PERSON>Bardsley</PERSON>,Edge from Bardsley from Bardsley
+<PERSON>Mrs Julie Denham</PERSON>,<PERSON>Julie Clarey</PERSON>,Edge from Mrs Julie Denham from Julie Clarey
+<PERSON>Oonagh McIntosh</PERSON>,<PERSON>Helen Owen</PERSON>,Edge from Oonagh McIntosh from Helen Owen
+<PERSON>Harry Stafford</PERSON>,<PERSON>Mrs Mary Dudley</PERSON>,Edge from Harry Stafford from Mrs Mary Dudley
+<PERSON>Shipman</PERSON>,<PERSON>Ward</PERSON>,Edge from Shipman from Ward
+<PERSON>Shipman</PERSON>,<PERSON>Crossley</PERSON>,Edge from Shipman from Crossley
+<PERSON>Lloyd George</PERSON>,<PERSON>Shipman</PERSON>,Edge from Lloyd George from Shipman
+<PERSON>Mr Pomfret</PERSON>,<PERSON>Mrs Bianka Pomfret</PERSON>,Edge from Mr Pomfret from Mrs Bianka Pomfret
+<PERSON>Hamblett Leonora</PERSON>,<PERSON>Hammond Caroline Veronica</PERSON>,Edge from Hamblett Leonora from Hammond Caroline Veronica
+<PERSON>Grieve</PERSON>,<PERSON>Lingard</PERSON>,Edge from Grieve from Lingard
+<PERSON>Grenville</PERSON>,<PERSON>Shipman</PERSON>,Edge from Grenville from Shipman
+<PERSON>Mrs Chapman</PERSON>,<PERSON>Lomas</PERSON>,Edge from Mrs Chapman from Lomas
+<PERSON>Geoffrey Bills</PERSON>,<PERSON>William Bennett</PERSON>,Edge from Geoffrey Bills from William Bennett
+<PERSON>William Catlow</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from William Catlow from Mrs Adams
+<PERSON>Grenville</PERSON>,<PERSON>Kathleen Grundy</PERSON>,Edge from Grenville from Kathleen Grundy
+<PERSON>Selina Mackenzie</PERSON>,<PERSON>Vera Bramwell</PERSON>,Edge from Selina Mackenzie from Vera Bramwell
+<PERSON>Mrs West</PERSON>,<PERSON>Christopher</PERSON>,Edge from Mrs West from Christopher
+<PERSON>Mrs Sonja Jones</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from Mrs Sonja Jones from Mrs Adams
+<PERSON>Jim Sturman</PERSON>,<PERSON>Paul Taylor</PERSON>,Edge from Jim Sturman from Paul Taylor
+<PERSON>Mrs Lomas</PERSON>,<PERSON>Mrs Chapman</PERSON>,Edge from Mrs Lomas from Mrs Chapman
+<PERSON>Ward</PERSON>,<PERSON>Shipman</PERSON>,Edge from Ward from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Maureen Ward</PERSON>,Edge from Shipman from Maureen Ward
+<PERSON>Peter Lewis</PERSON>,<PERSON>Shipman</PERSON>,Edge from Peter Lewis from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Jack Leslie Shelmerdine</PERSON>,Edge from Shipman from Jack Leslie Shelmerdine
+<PERSON>Mrs Shawcross</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Shawcross from Shipman
+<PERSON>Miss Fox</PERSON>,<PERSON>Fox</PERSON>,Edge from Miss Fox from Fox
+<PERSON>Maureen Ward</PERSON>,<PERSON>Shipman</PERSON>,Edge from Maureen Ward from Shipman
+<PERSON>Leah Fogg</PERSON>,<PERSON>Shipman</PERSON>,Edge from Leah Fogg from Shipman
+<PERSON>Michael Shorrock</PERSON>,<PERSON>Kate Blackwell</PERSON>,Edge from Michael Shorrock from Kate Blackwell
+<PERSON>Doreen Belk</PERSON>,<PERSON>Shipman</PERSON>,Edge from Doreen Belk from Shipman
+<PERSON>Mrs Lyons</PERSON>,<PERSON>Lyons</PERSON>,Edge from Mrs Lyons from Lyons
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Burgess</PERSON>,Edge from Mrs Grundy from Burgess
+<PERSON>Woodruff</PERSON>,<PERSON>Shipman</PERSON>,Edge from Woodruff from Shipman
+<PERSON>Whittingslow</PERSON>,<PERSON>Shipman</PERSON>,Edge from Whittingslow from Shipman
+<PERSON>Mrs West</PERSON>,<PERSON>Mrs West</PERSON>,Edge from Mrs West from Mrs West
+<PERSON>Mrs Marie Quinn</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Marie Quinn from Shipman
+<PERSON>Edith Brady</PERSON>,<PERSON>Mrs Ivy Lomas</PERSON>,Edge from Edith Brady from Mrs Ivy Lomas
+<PERSON>Mrs Toft</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Toft from Shipman
+<PERSON>Mrs Turner</PERSON>,<PERSON>Woodruff</PERSON>,Edge from Mrs Turner from Woodruff
+<PERSON>Mrs Hadfield</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hadfield from Shipman
+<PERSON>Mrs Tomlin</PERSON>,<PERSON>Mrs Tomlin</PERSON>,Edge from Mrs Tomlin from Mrs Tomlin
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Dean</PERSON>,Edge from Shipman from Mrs Dean
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Heginbotham</PERSON>,Edge from Shipman from Mrs Heginbotham
+<PERSON>Mrs McEvilly</PERSON>,<PERSON>Stafford</PERSON>,Edge from Mrs McEvilly from Stafford
+<PERSON>Shipman</PERSON>,<PERSON>Woodruff</PERSON>,Edge from Shipman from Woodruff
+<PERSON>Johnston Leah</PERSON>,<PERSON>Jones Alice Mary</PERSON>,Edge from Johnston Leah from Jones Alice Mary
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Lomas</PERSON>,Edge from Shipman from Mrs Lomas
+<PERSON>Shipman</PERSON>,<PERSON>Kathleen McDonald</PERSON>,Edge from Shipman from Kathleen McDonald
+<PERSON>Mrs Charlotte Bennison</PERSON>,<PERSON>Grenville</PERSON>,Edge from Mrs Charlotte Bennison from Grenville
+<PERSON>Morgan</PERSON>,<PERSON>Mrs Massey</PERSON>,Edge from Morgan from Mrs Massey
+<PERSON>Mrs Lomas</PERSON>,<PERSON>Jack</PERSON>,Edge from Mrs Lomas from Jack
+<PERSON>Mrs Claire Hutchinson</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from Mrs Claire Hutchinson from Mrs Grundy
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Elizabeth Rogers</PERSON>,Edge from Shipman from Mrs Elizabeth Rogers
+<PERSON>Mrs Mary Tomlin</PERSON>,<PERSON>Mrs Shawcross</PERSON>,Edge from Mrs Mary Tomlin from Mrs Shawcross
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Cox</PERSON>,Edge from Shipman from Mrs Cox
+<PERSON>Joan Harding</PERSON>,<PERSON>Shipman</PERSON>,Edge from Joan Harding from Shipman
+<PERSON>Agnes Oldham</PERSON>,<PERSON>Irene Heathcote</PERSON>,Edge from Agnes Oldham from Irene Heathcote
+<PERSON>Mrs Laithwaite</PERSON>,<PERSON>Mrs Slater</PERSON>,Edge from Mrs Laithwaite from Mrs Slater
+<PERSON>Shipman</PERSON>,<PERSON>Dirckze</PERSON>,Edge from Shipman from Dirckze
+<PERSON>Hough Lane</PERSON>,<PERSON>Hyde</PERSON>,Edge from Hough Lane from Hyde
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Marion Carradice</PERSON>,Edge from Shipman from Mrs Marion Carradice
+<PERSON>Mrs Adams</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Adams from Shipman
+<PERSON>Mrs Gladys Saunders</PERSON>,<PERSON>Mabel Shawcross</PERSON>,Edge from Mrs Gladys Saunders from Mabel Shawcross
+<PERSON>Mrs Pomfret</PERSON>,<PERSON>Mrs Nuttall</PERSON>,Edge from Mrs Pomfret from Mrs Nuttall
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Williamson</PERSON>,Edge from Shipman from Mrs Williamson
+<PERSON>Lily Crossley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Lily Crossley from Shipman
+<PERSON>Moss</PERSON>,<PERSON>Mrs Dora Ashton</PERSON>,Edge from Moss from Mrs Dora Ashton
+<PERSON>Mrs Tucker</PERSON>,<PERSON>Mrs Bennett</PERSON>,Edge from Mrs Tucker from Mrs Bennett
+<PERSON>Dudley</PERSON>,<PERSON>Mrs Murphy</PERSON>,Edge from Dudley from Mrs Murphy
+<PERSON>Shipman</PERSON>,<PERSON>Andrew</PERSON>,Edge from Shipman from Andrew
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Woodruff</PERSON>,Edge from Shipman from Mrs Woodruff
+<PERSON>Phyllis Oxley</PERSON>,<PERSON>Lilian Shaw</PERSON>,Edge from Phyllis Oxley from Lilian Shaw
+<PERSON>Mrs Hanratty</PERSON>,<PERSON>Quinn</PERSON>,Edge from Mrs Hanratty from Quinn
+<PERSON>Unsworth</PERSON>,<PERSON>Shipman</PERSON>,Edge from Unsworth from Shipman
+<PERSON>Grenville</PERSON>,<PERSON>Ceporex</PERSON>,Edge from Grenville from Ceporex
+<PERSON>Shelmerdine</PERSON>,<PERSON>Shipman</PERSON>,Edge from Shelmerdine from Shipman
+<PERSON>Mrs Hamer</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hamer from Shipman
+<PERSON>Fowden</PERSON>,<PERSON>Edwin Fowden</PERSON>,Edge from Fowden from Edwin Fowden
+<PERSON>Phyllis Holt</PERSON>,<PERSON>Mrs Sparkes</PERSON>,Edge from Phyllis Holt from Mrs Sparkes
+<PERSON>Shipman</PERSON>,<PERSON>Elizabeth Baddeley</PERSON>,Edge from Shipman from Elizabeth Baddeley
+<PERSON>Andrew</PERSON>,<PERSON>Shipman</PERSON>,Edge from Andrew from Shipman
+<PERSON>Mrs Chapman</PERSON>,<PERSON>Mrs Lomas</PERSON>,Edge from Mrs Chapman from Mrs Lomas
+<PERSON>Kenneth Smith</PERSON>,<PERSON>Kenneth Smith</PERSON>,Edge from Kenneth Smith from Kenneth Smith
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Irene Heathcote</PERSON>,Edge from Shipman from Mrs Irene Heathcote
+<PERSON>Mrs Josephine Barnes</PERSON>,<PERSON>Mrs Mary Ball</PERSON>,Edge from Mrs Josephine Barnes from Mrs Mary Ball
+<PERSON>Mrs Mary Walls</PERSON>,<PERSON>Ada Warburton</PERSON>,Edge from Mrs Mary Walls from Ada Warburton
+<PERSON>Albert Lilley</PERSON>,<PERSON>Mrs Lilley</PERSON>,Edge from Albert Lilley from Mrs Lilley
+<PERSON>Berry</PERSON>,<PERSON>Mrs Edith Brady</PERSON>,Edge from Berry from Mrs Edith Brady
+<PERSON>Mrs Arrowsmith</PERSON>,<PERSON>Mrs Arrowsmith</PERSON>,Edge from Mrs Arrowsmith from Mrs Arrowsmith
+<PERSON>Shipman</PERSON>,<PERSON>Unsworth</PERSON>,Edge from Shipman from Unsworth
+<PERSON>Shipman</PERSON>,<PERSON>Grenville</PERSON>,Edge from Shipman from Grenville
+<PERSON>Shipman</PERSON>,<PERSON>Bardsley</PERSON>,Edge from Shipman from Bardsley
+<PERSON>Shipman</PERSON>,<PERSON>Albert Cheetham</PERSON>,Edge from Shipman from Albert Cheetham
+<PERSON>Mrs Chapman</PERSON>,<PERSON>Ward</PERSON>,Edge from Mrs Chapman from Ward
+<PERSON>Lilley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Lilley from Shipman
+<PERSON>Mrs Irene Heathcote</PERSON>,<PERSON>Mrs Hilda Hibbert</PERSON>,Edge from Mrs Irene Heathcote from Mrs Hilda Hibbert
+<PERSON>Shipman</PERSON>,<PERSON>Jean Lilley</PERSON>,Edge from Shipman from Jean Lilley
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Rose Adshead</PERSON>,Edge from Shipman from Mrs Rose Adshead
+<PERSON>Ward</PERSON>,<PERSON>Ward</PERSON>,Edge from Ward from Ward
+<PERSON>Henry McQuay</PERSON>,<PERSON>John Grenville</PERSON>,Edge from Henry McQuay from John Grenville
+<PERSON>Shipman</PERSON>,<PERSON>Mrs O’Neill</PERSON>,Edge from Shipman from Mrs O’Neill
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Sparkes</PERSON>,Edge from Shipman from Mrs Sparkes
+<PERSON>Moult</PERSON>,<PERSON>Shipman</PERSON>,Edge from Moult from Shipman
+<PERSON>Mrs Olive Heginbotham</PERSON>,<PERSON>Hilda Couzens</PERSON>,Edge from Mrs Olive Heginbotham from Hilda Couzens
+<PERSON>Mrs Mary Haslam</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Mary Haslam from Shipman
+<PERSON>Mrs Davies</PERSON>,<PERSON>Mrs Cox</PERSON>,Edge from Mrs Davies from Mrs Cox
+<PERSON>Beatrice Toft</PERSON>,<PERSON>Grenville</PERSON>,Edge from Beatrice Toft from Grenville
+<PERSON>Philip Gordon</PERSON>,<PERSON>Shipman</PERSON>,Edge from Philip Gordon from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Jane Jones</PERSON>,Edge from Shipman from Jane Jones
+<PERSON>Mrs Nancy Brassington</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Nancy Brassington from Shipman
+<PERSON>Mrs Mellor</PERSON>,<PERSON>Mrs Susan Duggan</PERSON>,Edge from Mrs Mellor from Mrs Susan Duggan
+<PERSON>Mrs Quinn</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Quinn from Shipman
+<PERSON>Mrs Turner</PERSON>,<PERSON>Mrs Grimshaw</PERSON>,Edge from Mrs Turner from Mrs Grimshaw
+<PERSON>Catlow</PERSON>,<PERSON>Adams</PERSON>,Edge from Catlow from Adams
+<PERSON>Amy Whitehead</PERSON>,<PERSON>Shipman</PERSON>,Edge from Amy Whitehead from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Howat</PERSON>,Edge from Shipman from Howat
+<PERSON>Barlow Charles Henry</PERSON>,<PERSON>Barnes James Edward</PERSON>,Edge from Barlow Charles Henry from Barnes James Edward
+<PERSON>Shipman</PERSON>,<PERSON>Sidney Smith</PERSON>,Edge from Shipman from Sidney Smith
+<PERSON>J. Smith</PERSON>,<PERSON>S. Smith</PERSON>,Edge from J. Smith from S. Smith
+<PERSON>Mrs Simpson</PERSON>,<PERSON>Mrs Prestwich</PERSON>,Edge from Mrs Simpson from Mrs Prestwich
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Jones</PERSON>,Edge from Shipman from Mrs Jones
+<PERSON>Joan Dean</PERSON>,<PERSON>Mrs Marjorie Waller</PERSON>,Edge from Joan Dean from Mrs Marjorie Waller
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Bertha Moss</PERSON>,Edge from Shipman from Mrs Bertha Moss
+<PERSON>Annie Elizabeth Golds</PERSON>,<PERSON>Genevieve Challoner</PERSON>,Edge from Annie Elizabeth Golds from Genevieve Challoner
+<PERSON>Mrs Lilley</PERSON>,<PERSON>Lilley</PERSON>,Edge from Mrs Lilley from Lilley
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Oswald</PERSON>,Edge from Shipman from Mrs Oswald
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Winifred Arrowsmith</PERSON>,Edge from Shipman from Mrs Winifred Arrowsmith
+<PERSON>Mrs Thorley</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from Mrs Thorley from Mrs Adams
+<PERSON>McQuay</PERSON>,<PERSON>Grenville</PERSON>,Edge from McQuay from Grenville
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Moss</PERSON>,Edge from Shipman from Mrs Moss
+<PERSON>Charles Brocklehurst</PERSON>,<PERSON>Amy Whitehead</PERSON>,Edge from Charles Brocklehurst from Amy Whitehead
+<PERSON>Richard Fitton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Richard Fitton from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Hilda Fitton</PERSON>,Edge from Shipman from Hilda Fitton
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Ivy Lomas</PERSON>,Edge from Shipman from Mrs Ivy Lomas
+<PERSON>McKeating</PERSON>,<PERSON>Shipman</PERSON>,Edge from McKeating from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>HOLMES</PERSON>,Edge from Shipman from HOLMES
+<PERSON>Hyde</PERSON>,<PERSON>Mrs Moss</PERSON>,Edge from Hyde from Mrs Moss
+<PERSON>Christopher Melton</PERSON>,<PERSON>Anthony Mazzag</PERSON>,Edge from Christopher Melton from Anthony Mazzag
+<PERSON>Bryson</PERSON>,<PERSON>Milne</PERSON>,Edge from Bryson from Milne
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Hanratty</PERSON>,Edge from Shipman from Mrs Hanratty
+<PERSON>Charles Killan</PERSON>,<PERSON>Mrs Martha Marley</PERSON>,Edge from Charles Killan from Mrs Martha Marley
+<PERSON>Shipman</PERSON>,<PERSON>Winifred Mellor</PERSON>,Edge from Shipman from Winifred Mellor
+<PERSON>Mrs Hillier</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hillier from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Arrowsmith</PERSON>,Edge from Shipman from Mrs Arrowsmith
+<PERSON>Mrs Bianka Pomfret</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Bianka Pomfret from Shipman
+<PERSON>Mrs Marley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Marley from Shipman
+<PERSON>Grenville</PERSON>,<PERSON>Mrs Nuttall</PERSON>,Edge from Grenville from Mrs Nuttall
+<PERSON>Mrs Renate Overton</PERSON>,<PERSON>Peter Ovcar-Robinson</PERSON>,Edge from Mrs Renate Overton from Peter Ovcar-Robinson
+<PERSON>Edwin Fowden</PERSON>,<PERSON>Shipman</PERSON>,Edge from Edwin Fowden from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Renate Overton</PERSON>,Edge from Shipman from Renate Overton
+<PERSON>Mrs Lucy Virgin</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Lucy Virgin from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Deborah Middleton</PERSON>,Edge from Shipman from Deborah Middleton
+<PERSON>Ada Warburton</PERSON>,<PERSON>Mrs Amy Whitehead</PERSON>,Edge from Ada Warburton from Mrs Amy Whitehead
+<PERSON>Shipman</PERSON>,<PERSON>Thorley</PERSON>,Edge from Shipman from Thorley
+<PERSON>Mrs Winterbottom</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Winterbottom from Shipman
+<PERSON>Dorothea Renwick</PERSON>,<PERSON>Ann Cooper</PERSON>,Edge from Dorothea Renwick from Ann Cooper
+<PERSON>Marion Gaskell</PERSON>,<PERSON>Thomas Cheetham</PERSON>,Edge from Marion Gaskell from Thomas Cheetham
+<PERSON>Shipman</PERSON>,<PERSON>Elizabeth Pearce</PERSON>,Edge from Shipman from Elizabeth Pearce
+<PERSON>Henry Palin</PERSON>,<PERSON>Ita Langan</PERSON>,Edge from Henry Palin from Ita Langan
+<PERSON>Mrs May Slater</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs May Slater from Shipman
+<PERSON>Nuttall</PERSON>,<PERSON>Mrs Oldham</PERSON>,Edge from Nuttall from Mrs Oldham
+<PERSON>Turner</PERSON>,<PERSON>Shipman</PERSON>,Edge from Turner from Shipman
+<PERSON>Annie Coulthard</PERSON>,<PERSON>William Givens</PERSON>,Edge from Annie Coulthard from William Givens
+<PERSON>Mrs Moss</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Moss from Shipman
+<PERSON>Brenda Lewin</PERSON>,<PERSON>Mrs Mollie Dunkley</PERSON>,Edge from Brenda Lewin from Mrs Mollie Dunkley
+<PERSON>Mrs Wibberley</PERSON>,<PERSON>Mrs Pleva</PERSON>,Edge from Mrs Wibberley from Mrs Pleva
+<PERSON>Mrs Hillier</PERSON>,<PERSON>Mrs Hillier</PERSON>,Edge from Mrs Hillier from Mrs Hillier
+<PERSON>Shipman</PERSON>,<PERSON>Frances Turner</PERSON>,Edge from Shipman from Frances Turner
+<PERSON>Ward</PERSON>,<PERSON>Mrs Simpson</PERSON>,Edge from Ward from Mrs Simpson
+<PERSON>Mrs Adams</PERSON>,<PERSON>Catlow</PERSON>,Edge from Mrs Adams from Catlow
+<PERSON>Shipman</PERSON>,<PERSON>Nuttall</PERSON>,Edge from Shipman from Nuttall
+<PERSON>Shipman</PERSON>,<PERSON>Rutherford</PERSON>,Edge from Shipman from Rutherford
+<PERSON>Mrs Nellie Mullen</PERSON>,<PERSON>Mrs Gladys Saunders</PERSON>,Edge from Mrs Nellie Mullen from Mrs Gladys Saunders
+<PERSON>Milne</PERSON>,<PERSON>Bryson</PERSON>,Edge from Milne from Bryson
+<PERSON>Mrs Carol Dalpiaz</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Carol Dalpiaz from Shipman
+<PERSON>Fox</PERSON>,<PERSON>Fox</PERSON>,Edge from Fox from Fox
+<PERSON>Shipman</PERSON>,<PERSON>Dr Napier</PERSON>,Edge from Shipman from Dr Napier
+<PERSON>Mrs Stafford</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Stafford from Shipman
+<PERSON>Joseph Leigh</PERSON>,<PERSON>Eileen Robinson</PERSON>,Edge from Joseph Leigh from Eileen Robinson
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Pomfret</PERSON>,Edge from Shipman from Mrs Pomfret
+<PERSON>Mrs Crossley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Crossley from Shipman
+<PERSON>Warren</PERSON>,<PERSON>Laura Victoria Parkin</PERSON>,Edge from Warren from Laura Victoria Parkin
+<PERSON>Moss</PERSON>,<PERSON>Mrs Brenda Hurst</PERSON>,Edge from Moss from Mrs Brenda Hurst
+<PERSON>Mrs Jennifer Unsworth</PERSON>,<PERSON>Mrs Arrowsmith</PERSON>,Edge from Mrs Jennifer Unsworth from Mrs Arrowsmith
+<PERSON>Shipman</PERSON>,<PERSON>Dora Ashton</PERSON>,Edge from Shipman from Dora Ashton
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Alice Gorton</PERSON>,Edge from Shipman from Mrs Alice Gorton
+<PERSON>John Grenville</PERSON>,<PERSON>Shipman</PERSON>,Edge from John Grenville from Shipman
+<PERSON>Mrs Enid Otter</PERSON>,<PERSON>Maureen Jackson</PERSON>,Edge from Mrs Enid Otter from Maureen Jackson
+<PERSON>Mrs Hillier</PERSON>,<PERSON>Hillier</PERSON>,Edge from Mrs Hillier from Hillier
+<PERSON>Mrs Hibbert</PERSON>,<PERSON>Lizzie Adams</PERSON>,Edge from Mrs Hibbert from Lizzie Adams
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Hyde</PERSON>,Edge from Mrs Grundy from Hyde
+<PERSON>Mrs Sparkes</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Sparkes from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Dalpiaz</PERSON>,Edge from Shipman from Mrs Dalpiaz
+<PERSON>Bennett</PERSON>,<PERSON>Daniel</PERSON>,Edge from Bennett from Daniel
+<PERSON>Samuel Mills</PERSON>,<PERSON>Marion Gaskell</PERSON>,Edge from Samuel Mills from Marion Gaskell
+<PERSON>Morgan</PERSON>,<PERSON>Morgan</PERSON>,Edge from Morgan from Morgan
+<PERSON>Mrs West</PERSON>,<PERSON>Mrs Hadfield</PERSON>,Edge from Mrs West from Mrs Hadfield
+<PERSON>Mrs Melia</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Melia from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mr Cheetham</PERSON>,Edge from Shipman from Mr Cheetham
+<PERSON>Mrs Brady</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Brady from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Eva Lyons</PERSON>,Edge from Shipman from Eva Lyons
+<PERSON>Shipman</PERSON>,<PERSON>Milne</PERSON>,Edge from Shipman from Milne
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Shipman</PERSON>,Edge from Shipman from Mrs Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Halliday</PERSON>,Edge from Shipman from Halliday
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Toft</PERSON>,Edge from Shipman from Mrs Toft
+<PERSON>Mrs Elizabeth Shawcross</PERSON>,<PERSON>Dorothy Foley</PERSON>,Edge from Mrs Elizabeth Shawcross from Dorothy Foley
+<PERSON>Sidney Smith</PERSON>,<PERSON>Shipman</PERSON>,Edge from Sidney Smith from Shipman
+<PERSON>Hyde</PERSON>,<PERSON>Mrs Doreen Laithwaite</PERSON>,Edge from Hyde from Mrs Doreen Laithwaite
+<PERSON>Mrs Alice Kitchen</PERSON>,<PERSON>Mrs Elizabeth Mellor</PERSON>,Edge from Mrs Alice Kitchen from Mrs Elizabeth Mellor
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Turner</PERSON>,Edge from Shipman from Mrs Turner
+<PERSON>Shipman</PERSON>,<PERSON>Catlow</PERSON>,Edge from Shipman from Catlow
+<PERSON>Joan Melia</PERSON>,<PERSON>Mrs Winifred Mellor</PERSON>,Edge from Joan Melia from Mrs Winifred Mellor
+<PERSON>Dr Bills</PERSON>,<PERSON>Shipman</PERSON>,Edge from Dr Bills from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Quinn</PERSON>,Edge from Shipman from Mrs Quinn
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Grimshaw</PERSON>,Edge from Shipman from Mrs Grimshaw
+<PERSON>Barker Elsie</PERSON>,<PERSON>Barlow Charles Henry</PERSON>,Edge from Barker Elsie from Barlow Charles Henry
+<PERSON>Shipman</PERSON>,<PERSON>Frank Halliday</PERSON>,Edge from Shipman from Frank Halliday
+<PERSON>David Smith</PERSON>,<PERSON>Nick Holroyd</PERSON>,Edge from David Smith from Nick Holroyd
+<PERSON>Mabel Shawcross</PERSON>,<PERSON>Norah Nuttall</PERSON>,Edge from Mabel Shawcross from Norah Nuttall
+<PERSON>Shipman</PERSON>,<PERSON>Wilcockson</PERSON>,Edge from Shipman from Wilcockson
+<PERSON>Mellor Samuel</PERSON>,<PERSON>Meredith Oscar</PERSON>,Edge from Mellor Samuel from Meredith Oscar
+<PERSON>Mrs Simpson</PERSON>,<PERSON>Mrs Simpson</PERSON>,Edge from Mrs Simpson from Mrs Simpson
+<PERSON>Shipman</PERSON>,<PERSON>Tingle</PERSON>,Edge from Shipman from Tingle
+<PERSON>Moira Fox</PERSON>,<PERSON>Fox</PERSON>,Edge from Moira Fox from Fox
+<PERSON>Elaine Oswald</PERSON>,<PERSON>Shipman</PERSON>,Edge from Elaine Oswald from Shipman
+<PERSON>Mrs Alice Mary Jones</PERSON>,<PERSON>Mrs Fletcher</PERSON>,Edge from Mrs Alice Mary Jones from Mrs Fletcher
+<PERSON>Shipman</PERSON>,<PERSON>Christine Simpson</PERSON>,Edge from Shipman from Christine Simpson
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Tomlin</PERSON>,Edge from Shipman from Mrs Tomlin
+<PERSON>Irene Aitken</PERSON>,<PERSON>John France</PERSON>,Edge from Irene Aitken from John France
+<PERSON>Mrs Irene Chapman</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Irene Chapman from Shipman
+<PERSON>Mrs Bertha Moss</PERSON>,<PERSON>Mrs Nellie Mullen</PERSON>,Edge from Mrs Bertha Moss from Mrs Nellie Mullen
+<PERSON>Roberts</PERSON>,<PERSON>Roberts</PERSON>,Edge from Roberts from Roberts
+<PERSON>Shipman</PERSON>,<PERSON>Baker</PERSON>,Edge from Shipman from Baker
+<PERSON>Mrs Jackson</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Jackson from Shipman
+<PERSON>Harding</PERSON>,<PERSON>Shipman</PERSON>,Edge from Harding from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Lilley</PERSON>,Edge from Shipman from Mrs Lilley
+<PERSON>Shipman</PERSON>,<PERSON>Hillier</PERSON>,Edge from Shipman from Hillier
+<PERSON>Oswald</PERSON>,<PERSON>Shipman</PERSON>,Edge from Oswald from Shipman
+<PERSON>Mrs Massey</PERSON>,<PERSON>Mrs Brady</PERSON>,Edge from Mrs Massey from Mrs Brady
+<PERSON>Shipman</PERSON>,<PERSON>Mrs West</PERSON>,Edge from Shipman from Mrs West
+<PERSON>Father Dennis Maher</PERSON>,<PERSON>Shipman</PERSON>,Edge from Father Dennis Maher from Shipman
+<PERSON>Reynolds</PERSON>,<PERSON>Shipman</PERSON>,Edge from Reynolds from Shipman
+<PERSON>Mrs Elsie Dean</PERSON>,<PERSON>Mrs Joan Dean</PERSON>,Edge from Mrs Elsie Dean from Mrs Joan Dean
+<PERSON>Mrs Hunter</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hunter from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Kenneth Smith</PERSON>,Edge from Shipman from Kenneth Smith
+<PERSON>Marjorie Waller</PERSON>,<PERSON>Shipman</PERSON>,Edge from Marjorie Waller from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Hunter</PERSON>,Edge from Shipman from Mrs Hunter
+<PERSON>Lilian Shaw</PERSON>,<PERSON>Leah Pickering</PERSON>,Edge from Lilian Shaw from Leah Pickering
+<PERSON>Mrs Taylor</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Taylor from Shipman
+<PERSON>Maureen Ward</PERSON>,<PERSON>Jean Lilley</PERSON>,Edge from Maureen Ward from Jean Lilley
+<PERSON>Nigel Reynolds</PERSON>,<PERSON>Linda Reynolds</PERSON>,Edge from Nigel Reynolds from Linda Reynolds
+<PERSON>David Bunn</PERSON>,<PERSON>Brenda Lewin</PERSON>,Edge from David Bunn from Brenda Lewin
+<PERSON>Susan Cropper</PERSON>,<PERSON>Bennett</PERSON>,Edge from Susan Cropper from Bennett
+<PERSON>Mrs Wagstaff</PERSON>,<PERSON>Mrs Pomfret</PERSON>,Edge from Mrs Wagstaff from Mrs Pomfret
+<PERSON>Samuel Mellor</PERSON>,<PERSON>Annie Elizabeth Golds</PERSON>,Edge from Samuel Mellor from Annie Elizabeth Golds
+<PERSON>Fanny Dawson</PERSON>,<PERSON>Hannah Helena Mottram</PERSON>,Edge from Fanny Dawson from Hannah Helena Mottram
+<PERSON>Jean Lilley</PERSON>,<PERSON>Margaret Waldron</PERSON>,Edge from Jean Lilley from Margaret Waldron
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Pearce</PERSON>,Edge from Shipman from Mrs Pearce
+<PERSON>Winterbottom</PERSON>,<PERSON>Shipman</PERSON>,Edge from Winterbottom from Shipman
+<PERSON>Jane Ellen</PERSON>,<PERSON>Michael Connors</PERSON>,Edge from Jane Ellen from Michael Connors
+<PERSON>Steele</PERSON>,<PERSON>Shipman</PERSON>,Edge from Steele from Shipman
+<PERSON>Mrs Edith Wibberley</PERSON>,<PERSON>Mrs Eileen Cox</PERSON>,Edge from Mrs Edith Wibberley from Mrs Eileen Cox
+<PERSON>John Grenville</PERSON>,<PERSON>Grenville</PERSON>,Edge from John Grenville from Grenville
+<PERSON>Mrs Dudley</PERSON>,<PERSON>Mrs Dudley</PERSON>,Edge from Mrs Dudley from Mrs Dudley
+<PERSON>Reade</PERSON>,<PERSON>Mrs Lomas</PERSON>,Edge from Reade from Mrs Lomas
+<PERSON>Mrs Lyons</PERSON>,<PERSON>Todmorden</PERSON>,Edge from Mrs Lyons from Todmorden
+<PERSON>Mrs Middleton</PERSON>,<PERSON>Mrs Barbara Taylor</PERSON>,Edge from Mrs Middleton from Mrs Barbara Taylor
+<PERSON>Charles MacConnell</PERSON>,<PERSON>Shipman</PERSON>,Edge from Charles MacConnell from Shipman
+<PERSON>Wilcockson</PERSON>,<PERSON>Shipman</PERSON>,Edge from Wilcockson from Shipman
+<PERSON>Mrs Valerie Wood</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Valerie Wood from Shipman
+<PERSON>Humberstone</PERSON>,<PERSON>Hugo Milne</PERSON>,Edge from Humberstone from Hugo Milne
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Hamer</PERSON>,Edge from Shipman from Mrs Hamer
+<PERSON>Anne Ralphs</PERSON>,<PERSON>Grenville</PERSON>,Edge from Anne Ralphs from Grenville
+<PERSON>Kucharczyk</PERSON>,<PERSON>Moysey</PERSON>,Edge from Kucharczyk from Moysey
+<PERSON>Jack Leslie Shelmerdine</PERSON>,<PERSON>Shelmerdine</PERSON>,Edge from Jack Leslie Shelmerdine from Shelmerdine
+<PERSON>Mrs Dudley</PERSON>,<PERSON>Mrs Murphy</PERSON>,Edge from Mrs Dudley from Mrs Murphy
+<PERSON>Mrs Judith Page</PERSON>,<PERSON>Mrs Martha Marley</PERSON>,Edge from Mrs Judith Page from Mrs Martha Marley
+<PERSON>Shipman</PERSON>,<PERSON>Tait</PERSON>,Edge from Shipman from Tait
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Marsland</PERSON>,Edge from Shipman from Mrs Marsland
+<PERSON>Mrs Slater</PERSON>,<PERSON>Mrs Laithwaite</PERSON>,Edge from Mrs Slater from Mrs Laithwaite
+<PERSON>Robert Lingard</PERSON>,<PERSON>Mrs Lily Crossley</PERSON>,Edge from Robert Lingard from Mrs Lily Crossley
+<PERSON>Pomfret</PERSON>,<PERSON>Shipman</PERSON>,Edge from Pomfret from Shipman
+<PERSON>Emma Smith</PERSON>,<PERSON>Elizabeth Ashworth</PERSON>,Edge from Emma Smith from Elizabeth Ashworth
+<PERSON>Elizabeth Hunter</PERSON>,<PERSON>Mrs Lilley</PERSON>,Edge from Elizabeth Hunter from Mrs Lilley
+<PERSON>Joan May Melia</PERSON>,<PERSON>Shipman</PERSON>,Edge from Joan May Melia from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Bramwell</PERSON>,Edge from Shipman from Bramwell
+<PERSON>Dorothy Fletcher</PERSON>,<PERSON>Shipman</PERSON>,Edge from Dorothy Fletcher from Shipman
+<PERSON>Ralph Unsworth</PERSON>,<PERSON>Fox</PERSON>,Edge from Ralph Unsworth from Fox
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Ellis</PERSON>,Edge from Shipman from Mrs Ellis
+<PERSON>Moira Fox</PERSON>,<PERSON>Shipman</PERSON>,Edge from Moira Fox from Shipman
+<PERSON>S. Smith</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from S. Smith from Mrs Grundy
+<PERSON>Elizabeth Ashworth</PERSON>,<PERSON>Annie Coulthard</PERSON>,Edge from Elizabeth Ashworth from Annie Coulthard
+<PERSON>Tingle</PERSON>,<PERSON>Tingle</PERSON>,Edge from Tingle from Tingle
+<PERSON>Mrs Turner</PERSON>,<PERSON>Mrs Turner</PERSON>,Edge from Mrs Turner from Mrs Turner
+<PERSON>Mrs Hackney</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Hackney from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Roberts</PERSON>,Edge from Shipman from Mrs Roberts
+<PERSON>Mrs Adams</PERSON>,<PERSON>Lloyd George</PERSON>,Edge from Mrs Adams from Lloyd George
+<PERSON>Grenville</PERSON>,<PERSON>Samuel Mills</PERSON>,Edge from Grenville from Samuel Mills
+<PERSON>Maureen Ward</PERSON>,<PERSON>Mrs Pamela Hillier</PERSON>,Edge from Maureen Ward from Mrs Pamela Hillier
+<PERSON>Mrs Oswald</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Oswald from Shipman
+<PERSON>Lyons</PERSON>,<PERSON>Shipman</PERSON>,Edge from Lyons from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Harrison</PERSON>,Edge from Shipman from Harrison
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Mrs Grundy</PERSON>,Edge from Mrs Grundy from Mrs Grundy
+<PERSON>Shipman</PERSON>,<PERSON>Fowden</PERSON>,Edge from Shipman from Fowden
+<PERSON>Mrs Rogers</PERSON>,<PERSON>Mrs Rogers</PERSON>,Edge from Mrs Rogers from Mrs Rogers
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Fogg</PERSON>,Edge from Shipman from Mrs Fogg
+<PERSON>Anthony Mazzag</PERSON>,<PERSON>Michael Jones</PERSON>,Edge from Anthony Mazzag from Michael Jones
+<PERSON>Mrs Middleton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Middleton from Shipman
+<PERSON>Mrs Prestwich</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Prestwich from Shipman
+<PERSON>Harriet Jerram</PERSON>,<PERSON>Ann Alexander</PERSON>,Edge from Harriet Jerram from Ann Alexander
+<PERSON>Miss Ward</PERSON>,<PERSON>Mrs Hillier</PERSON>,Edge from Miss Ward from Mrs Hillier
+<PERSON>Shipman</PERSON>,<PERSON>Joan Harding</PERSON>,Edge from Shipman from Joan Harding
+<PERSON>Joan Melia</PERSON>,<PERSON>Shipman</PERSON>,Edge from Joan Melia from Shipman
+<PERSON>Mrs Elsie Harrop</PERSON>,<PERSON>Mrs Elizabeth Burke</PERSON>,Edge from Mrs Elsie Harrop from Mrs Elizabeth Burke
+<PERSON>Maria West</PERSON>,<PERSON>Marie</PERSON>,Edge from Maria West from Marie
+<PERSON>Hyde</PERSON>,<PERSON>Todmorden</PERSON>,Edge from Hyde from Todmorden
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Brown</PERSON>,Edge from Shipman from Mrs Brown
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Oldham</PERSON>,Edge from Shipman from Mrs Oldham
+<PERSON>Lilley</PERSON>,<PERSON>Lilley</PERSON>,Edge from Lilley from Lilley
+<PERSON>Mrs Nuttall</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Nuttall from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Chapman</PERSON>,Edge from Shipman from Mrs Chapman
+<PERSON>Shipman</PERSON>,<PERSON>Shelmerdine</PERSON>,Edge from Shipman from Shelmerdine
+<PERSON>Mrs Cocker</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Cocker from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Winterbottom</PERSON>,Edge from Shipman from Mrs Winterbottom
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Marley</PERSON>,Edge from Shipman from Mrs Marley
+<PERSON>Sidney Smith</PERSON>,<PERSON>Kenneth Smith</PERSON>,Edge from Sidney Smith from Kenneth Smith
+<PERSON>Mrs Overton</PERSON>,<PERSON>Mrs Overton</PERSON>,Edge from Mrs Overton from Mrs Overton
+<PERSON>Shipman</PERSON>,<PERSON>Joseph Wilcockson</PERSON>,Edge from Shipman from Joseph Wilcockson
+<PERSON>Mrs Thorley</PERSON>,<PERSON>Catlow</PERSON>,Edge from Mrs Thorley from Catlow
+<PERSON>Battersby</PERSON>,<PERSON>Shipman</PERSON>,Edge from Battersby from Shipman
+<PERSON>Dora Elizabeth Ashton</PERSON>,<PERSON>Shipman</PERSON>,Edge from Dora Elizabeth Ashton from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Whitehead</PERSON>,Edge from Shipman from Mrs Whitehead
+<PERSON>Mrs Mellor</PERSON>,<PERSON>Mrs Mellor</PERSON>,Edge from Mrs Mellor from Mrs Mellor
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Prestwich</PERSON>,Edge from Shipman from Mrs Prestwich
+<PERSON>Mrs Lizzie Adams</PERSON>,<PERSON>Mrs Norah Nuttall</PERSON>,Edge from Mrs Lizzie Adams from Mrs Norah Nuttall
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Hillier</PERSON>,Edge from Shipman from Mrs Hillier
+<PERSON>Jeffrey Moysey</PERSON>,<PERSON>Alan Rowlands</PERSON>,Edge from Jeffrey Moysey from Alan Rowlands
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Ada Ashworth</PERSON>,Edge from Shipman from Mrs Ada Ashworth
+<PERSON>Shipman</PERSON>,<PERSON>Lingard</PERSON>,Edge from Shipman from Lingard
+<PERSON>Mrs Carol</PERSON>,<PERSON>Michael Woodruff</PERSON>,Edge from Mrs Carol from Michael Woodruff
+<PERSON>Mrs Grimshaw</PERSON>,<PERSON>Ann Brown</PERSON>,Edge from Mrs Grimshaw from Ann Brown
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Hadfield</PERSON>,Edge from Shipman from Mrs Hadfield
+<PERSON>Mrs Ellen Hanratty</PERSON>,<PERSON>Mrs Quinn</PERSON>,Edge from Mrs Ellen Hanratty from Mrs Quinn
+<PERSON>Margaret Sankey</PERSON>,<PERSON>Joseph Leigh</PERSON>,Edge from Margaret Sankey from Joseph Leigh
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Brassington</PERSON>,Edge from Shipman from Mrs Brassington
+<PERSON>Mrs Ellis</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Ellis from Shipman
+<PERSON>Mrs Foley</PERSON>,<PERSON>Mrs Tomlin</PERSON>,Edge from Mrs Foley from Mrs Tomlin
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Taylor</PERSON>,Edge from Shipman from Mrs Taylor
+<PERSON>Moysey</PERSON>,<PERSON>Mrs Mary Ogden</PERSON>,Edge from Moysey from Mrs Mary Ogden
+<PERSON>Shipman</PERSON>,<PERSON>Harold Bramwell</PERSON>,Edge from Shipman from Harold Bramwell
+<PERSON>Mrs Gaskell</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Gaskell from Shipman
+<PERSON>Mary Emma Hamer</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mary Emma Hamer from Shipman
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Mrs Quinn</PERSON>,Edge from Mrs Grundy from Mrs Quinn
+<PERSON>Mrs Wagstaff</PERSON>,<PERSON>Peter</PERSON>,Edge from Mrs Wagstaff from Peter
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Melia</PERSON>,Edge from Shipman from Mrs Melia
+<PERSON>Neil Phillips</PERSON>,<PERSON>Shipman</PERSON>,Edge from Neil Phillips from Shipman
+<PERSON>Ward</PERSON>,<PERSON>Mrs Chapman</PERSON>,Edge from Ward from Mrs Chapman
+<PERSON>Reade</PERSON>,<PERSON>Shipman</PERSON>,Edge from Reade from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Brady</PERSON>,Edge from Shipman from Mrs Brady
+<PERSON>Joseph Bardsley</PERSON>,<PERSON>Shipman</PERSON>,Edge from Joseph Bardsley from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Monica Sparkes</PERSON>,Edge from Shipman from Monica Sparkes
+<PERSON>Winifred Arrowsmith</PERSON>,<PERSON>Grenville</PERSON>,Edge from Winifred Arrowsmith from Grenville
+<PERSON>Shipman</PERSON>,<PERSON>Joseph Bardsley</PERSON>,Edge from Shipman from Joseph Bardsley
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Dudley</PERSON>,Edge from Shipman from Mrs Dudley
+<PERSON>Joseph Frank Wilcockson</PERSON>,<PERSON>Samuel Mellor</PERSON>,Edge from Joseph Frank Wilcockson from Samuel Mellor
+<PERSON>Grenville</PERSON>,<PERSON>Fanny Nichols</PERSON>,Edge from Grenville from Fanny Nichols
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Margaret Townsend</PERSON>,Edge from Shipman from Mrs Margaret Townsend
+<PERSON>Mrs Mellor</PERSON>,<PERSON>Mrs Melia</PERSON>,Edge from Mrs Mellor from Mrs Melia
+<PERSON>Percy Ward</PERSON>,<PERSON>Ward</PERSON>,Edge from Percy Ward from Ward
+<PERSON>Lavinia Robinson</PERSON>,<PERSON>Mrs Renwick</PERSON>,Edge from Lavinia Robinson from Mrs Renwick
+<PERSON>Eddleston</PERSON>,<PERSON>Shipman</PERSON>,Edge from Eddleston from Shipman
+<PERSON>Grenville</PERSON>,<PERSON>Scott</PERSON>,Edge from Grenville from Scott
+<PERSON>Alfred Isherwood</PERSON>,<PERSON>Mrs Turner</PERSON>,Edge from Alfred Isherwood from Mrs Turner
+<PERSON>Stafford</PERSON>,<PERSON>Mrs McEvilly</PERSON>,Edge from Stafford from Mrs McEvilly
+<PERSON>Mrs Grundy</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Grundy from Shipman
+<PERSON>Mrs Laithwaite</PERSON>,<PERSON>Slater</PERSON>,Edge from Mrs Laithwaite from Slater
+<PERSON>Mrs Fletcher</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Fletcher from Shipman
+<PERSON>Mrs Edith Brady</PERSON>,<PERSON>Mrs Edith Brock</PERSON>,Edge from Mrs Edith Brady from Mrs Edith Brock
+<PERSON>Shipman</PERSON>,<PERSON>Dorothy Fletcher</PERSON>,Edge from Shipman from Dorothy Fletcher
+<PERSON>Keith Hillier</PERSON>,<PERSON>Shipman</PERSON>,Edge from Keith Hillier from Shipman
+<PERSON>Shipman</PERSON>,<PERSON>Mrs Wibberley</PERSON>,Edge from Shipman from Mrs Wibberley
+<PERSON>Lewis</PERSON>,<PERSON>Shipman</PERSON>,Edge from Lewis from Shipman
+<PERSON>Mrs Taylor</PERSON>,<PERSON>Taylor</PERSON>,Edge from Mrs Taylor from Taylor
+<PERSON>Shipman</PERSON>,<PERSON>Alfred Isherwood</PERSON>,Edge from Shipman from Alfred Isherwood
+<PERSON>Hardman</PERSON>,<PERSON>Shipman</PERSON>,Edge from Hardman from Shipman
+<PERSON>Hannah Helena Mottram</PERSON>,<PERSON>Maud Matley</PERSON>,Edge from Hannah Helena Mottram from Maud Matley
+<PERSON>Shipman</PERSON>,<PERSON>Shipman</PERSON>,Edge from Shipman from Shipman
+<PERSON>Largactil</PERSON>,<PERSON>Largactil</PERSON>,Edge from Largactil from Largactil
+<PERSON>Baker</PERSON>,<PERSON>Shipman</PERSON>,Edge from Baker from Shipman
+<PERSON>Mrs Ward</PERSON>,<PERSON>Mrs Ward</PERSON>,Edge from Mrs Ward from Mrs Ward
+<PERSON>Lingard</PERSON>,<PERSON>Lingard</PERSON>,Edge from Lingard from Lingard
+<PERSON>Kathleen Grundy</PERSON>,<PERSON>Shipman</PERSON>,Edge from Kathleen Grundy from Shipman
+<PERSON>Unsworth</PERSON>,<PERSON>Fox</PERSON>,Edge from Unsworth from Fox
+<PERSON>Mrs Jessie Wagstaff</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Jessie Wagstaff from Shipman
+<PERSON>Mrs Roberts</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Roberts from Shipman
+<PERSON>Sarah Adkinson</PERSON>,<PERSON>Fanny Dawson</PERSON>,Edge from Sarah Adkinson from Fanny Dawson
+<PERSON>Mrs Mavis Pickup</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs Mavis Pickup from Shipman
+<PERSON>George Charnock</PERSON>,<PERSON>Shipman</PERSON>,Edge from George Charnock from Shipman
+<PERSON>Elsie Scott</PERSON>,<PERSON>Shipman</PERSON>,Edge from Elsie Scott from Shipman
+<PERSON>Samuel Mills</PERSON>,<PERSON>Grenville</PERSON>,Edge from Samuel Mills from Grenville
+<PERSON>Grenville</PERSON>,<PERSON>Mrs Adams</PERSON>,Edge from Grenville from Mrs Adams
+<PERSON>Caroline Mary Taylor</PERSON>,<PERSON>Mary Ivy Birchall</PERSON>,Edge from Caroline Mary Taylor from Mary Ivy Birchall
+<PERSON>Shipman</PERSON>,<PERSON>Healthcall</PERSON>,Edge from Shipman from Healthcall
+<PERSON>Mrs Fogg</PERSON>,<PERSON>Mrs Marjorie Stafford</PERSON>,Edge from Mrs Fogg from Mrs Marjorie Stafford
+<PERSON>Shipman</PERSON>,<PERSON>Mary Hamer</PERSON>,Edge from Shipman from Mary Hamer
+<PERSON>John Turner</PERSON>,<PERSON>Shipman</PERSON>,Edge from John Turner from Shipman
+<PERSON>Grenville</PERSON>,<PERSON>McQuay</PERSON>,Edge from Grenville from McQuay
+<PERSON>Michael Grieve</PERSON>,<PERSON>John Dacre</PERSON>,Edge from Michael Grieve from John Dacre
+<PERSON>Mrs Hurst</PERSON>,<PERSON>Mrs Betty Clayton</PERSON>,Edge from Mrs Hurst from Mrs Betty Clayton
+<PERSON>Mrs Norah Nuttall</PERSON>,<PERSON>Mrs Maria West</PERSON>,Edge from Mrs Norah Nuttall from Mrs Maria West
+<PERSON>Shipman</PERSON>,<PERSON>Eddleston</PERSON>,Edge from Shipman from Eddleston
+<PERSON>Mrs West</PERSON>,<PERSON>Shipman</PERSON>,Edge from Mrs West from Shipman
+<PERSON>Mrs Oldham</PERSON>,<PERSON>Mrs Nuttall</PERSON>,Edge from Mrs Oldham from Mrs Nuttall
+<PERSON>Stafford</PERSON>,<PERSON>Shipman</PERSON>,Edge from Stafford from S

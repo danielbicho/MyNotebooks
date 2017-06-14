@@ -1,0 +1,559 @@
+Id,Label
+<PERSON>Mrs Bianka Pomfret</PERSON>,Mrs Bianka Pomfret
+<PERSON>Mrs Simpson</PERSON>,Mrs Simpson
+<PERSON>Alice Carrington</PERSON>,Alice Carrington
+<PERSON>Mrs Mollie Dunkley</PERSON>,Mrs Mollie Dunkley
+<PERSON>Berry</PERSON>,Berry
+<PERSON>Warburton</PERSON>,Warburton
+<PERSON>Mrs Mary Ogden</PERSON>,Mrs Mary Ogden
+<PERSON>Hammond Caroline Veronica</PERSON>,Hammond Caroline Veronica
+<PERSON>Mrs Marsland</PERSON>,Mrs Marsland
+<PERSON>Dorothy Rowarth</PERSON>,Dorothy Rowarth
+<PERSON>Whittingslow</PERSON>,Whittingslow
+<PERSON>Mrs Annie Powers</PERSON>,Mrs Annie Powers
+<PERSON>Mrs Elizabeth Mellor</PERSON>,Mrs Elizabeth Mellor
+<PERSON>Mrs Primrose Shipman</PERSON>,Mrs Primrose Shipman
+<PERSON>Dr Napier</PERSON>,Dr Napier
+<PERSON>Mrs Joan Dean</PERSON>,Mrs Joan Dean
+<PERSON>Scott</PERSON>,Scott
+<PERSON>Adams</PERSON>,Adams
+<PERSON>Frank Halliday</PERSON>,Frank Halliday
+<PERSON>Mrs Angela Woodruff</PERSON>,Mrs Angela Woodruff
+<PERSON>Irene Turner</PERSON>,Irene Turner
+<PERSON>Mrs West</PERSON>,Mrs West
+<PERSON>Mrs Winifred Mellor</PERSON>,Mrs Winifred Mellor
+<PERSON>Grimshaw</PERSON>,Grimshaw
+<PERSON>Maud Matley</PERSON>,Maud Matley
+<PERSON>Linda Reynolds</PERSON>,Linda Reynolds
+<PERSON>Mrs Norah Nuttall</PERSON>,Mrs Norah Nuttall
+<PERSON>Mrs Edith Brady</PERSON>,Mrs Edith Brady
+<PERSON>Jane Rostron</PERSON>,Jane Rostron
+<PERSON>Alan Tait</PERSON>,Alan Tait
+<PERSON>Mrs Ashworth</PERSON>,Mrs Ashworth
+<PERSON>Mary Ivy Birchall</PERSON>,Mary Ivy Birchall
+<PERSON>Valerie Lomax</PERSON>,Valerie Lomax
+<PERSON>Kenneth Smith</PERSON>,Kenneth Smith
+<PERSON>Hamblett Leonora</PERSON>,Hamblett Leonora
+<PERSON>Walter Tingle</PERSON>,Walter Tingle
+<PERSON>Mrs Richards</PERSON>,Mrs Richards
+<PERSON>Jim Howat</PERSON>,Jim Howat
+<PERSON>James Pickup</PERSON>,James Pickup
+<PERSON>Mrs Nancy Brassington</PERSON>,Mrs Nancy Brassington
+<PERSON>Dorothea Renwick</PERSON>,Dorothea Renwick
+<PERSON>Mrs Hackney</PERSON>,Mrs Hackney
+<PERSON>Bardsley</PERSON>,Bardsley
+<PERSON>Nigel Reynolds</PERSON>,Nigel Reynolds
+<PERSON>Harding</PERSON>,Harding
+<PERSON>Charles Brocklehurst</PERSON>,Charles Brocklehurst
+<PERSON>Harold Eddleston</PERSON>,Harold Eddleston
+<PERSON>Mrs Tucker</PERSON>,Mrs Tucker
+<PERSON>Daniel</PERSON>,Daniel
+<PERSON>Deborah Middleton</PERSON>,Deborah Middleton
+<PERSON>Mrs Gaskell</PERSON>,Mrs Gaskell
+<PERSON>Mrs Edith Brock</PERSON>,Mrs Edith Brock
+<PERSON>Shipman</PERSON>,Shipman
+<PERSON>Mrs Irene Chapman</PERSON>,Mrs Irene Chapman
+<PERSON>Ita Langan</PERSON>,Ita Langan
+<PERSON>Albert Lilley</PERSON>,Albert Lilley
+<PERSON>Mrs Jennifer Unsworth</PERSON>,Mrs Jennifer Unsworth
+<PERSON>Neighbours</PERSON>,Neighbours
+<PERSON>John Nuttall</PERSON>,John Nuttall
+<PERSON>John Bennett</PERSON>,John Bennett
+<PERSON>Mrs Wood</PERSON>,Mrs Wood
+<PERSON>Moult</PERSON>,Moult
+<PERSON>Mr Pomfret</PERSON>,Mr Pomfret
+<PERSON>Hannah Helena Mottram</PERSON>,Hannah Helena Mottram
+<PERSON>Mrs Jose Richards</PERSON>,Mrs Jose Richards
+<PERSON>Dirckze</PERSON>,Dirckze
+<PERSON>Jeffrey Moysey</PERSON>,Jeffrey Moysey
+<PERSON>Mrs McEvilly</PERSON>,Mrs McEvilly
+<PERSON>Mrs Hunter</PERSON>,Mrs Hunter
+<PERSON>Reynolds</PERSON>,Reynolds
+<PERSON>Harry Stafford</PERSON>,Harry Stafford
+<PERSON>Catlow</PERSON>,Catlow
+<PERSON>Mellor Elizabeth Ellen</PERSON>,Mellor Elizabeth Ellen
+<PERSON>Oswald</PERSON>,Oswald
+<PERSON>Mrs Josephine Barnes</PERSON>,Mrs Josephine Barnes
+<PERSON>Ann Brown</PERSON>,Ann Brown
+<PERSON>Fanny Dawson</PERSON>,Fanny Dawson
+<PERSON>Joseph Wilcockson</PERSON>,Joseph Wilcockson
+<PERSON>Mrs Elsie Hannible</PERSON>,Mrs Elsie Hannible
+<PERSON>Lily Crossley</PERSON>,Lily Crossley
+<PERSON>Barnes James Edward</PERSON>,Barnes James Edward
+<PERSON>Frances Turner</PERSON>,Frances Turner
+<PERSON>Kenneth Woodhead</PERSON>,Kenneth Woodhead
+<PERSON>Phillip Reade</PERSON>,Phillip Reade
+<PERSON>Thomas Fowden</PERSON>,Thomas Fowden
+<PERSON>Andrew</PERSON>,Andrew
+<PERSON>Hyde</PERSON>,Hyde
+<PERSON>Jean Lilley</PERSON>,Jean Lilley
+<PERSON>Mrs Muriel Grimshaw</PERSON>,Mrs Muriel Grimshaw
+<PERSON>Mrs Edna Llewellyn</PERSON>,Mrs Edna Llewellyn
+<PERSON>Mrs Bertha Moss</PERSON>,Mrs Bertha Moss
+<PERSON>Robert Lingard</PERSON>,Robert Lingard
+<PERSON>Mrs Jones</PERSON>,Mrs Jones
+<PERSON>Mrs Marie Quinn</PERSON>,Mrs Marie Quinn
+<PERSON>Mrs Adams</PERSON>,Mrs Adams
+<PERSON>Doreen Belk</PERSON>,Doreen Belk
+<PERSON>Mrs Laithwaite</PERSON>,Mrs Laithwaite
+<PERSON>Mrs Williamson</PERSON>,Mrs Williamson
+<PERSON>Bardsley Nellie</PERSON>,Bardsley Nellie
+<PERSON>Paul Taylor</PERSON>,Paul Taylor
+<PERSON>Maureen Jackson</PERSON>,Maureen Jackson
+<PERSON>Annie Coulthard</PERSON>,Annie Coulthard
+<PERSON>Mrs Lily Higgins</PERSON>,Mrs Lily Higgins
+<PERSON>Moira Fox</PERSON>,Moira Fox
+<PERSON>Hough Lane</PERSON>,Hough Lane
+<PERSON>Mrs Valerie Wood</PERSON>,Mrs Valerie Wood
+<PERSON>Mrs Quinn</PERSON>,Mrs Quinn
+<PERSON>Turner</PERSON>,Turner
+<PERSON>Irene Aitken</PERSON>,Irene Aitken
+<PERSON>Mrs Thorley</PERSON>,Mrs Thorley
+<PERSON>Mrs Winifred Arrowsmith</PERSON>,Mrs Winifred Arrowsmith
+<PERSON>McKeating</PERSON>,McKeating
+<PERSON>Mrs Mary Walls</PERSON>,Mrs Mary Walls
+<PERSON>Ward</PERSON>,Ward
+<PERSON>Joseph Bardsley</PERSON>,Joseph Bardsley
+<PERSON>Bryson</PERSON>,Bryson
+<PERSON>Mrs Hillier</PERSON>,Mrs Hillier
+<PERSON>Henry McQuay</PERSON>,Henry McQuay
+<PERSON>Dr Bills</PERSON>,Dr Bills
+<PERSON>Mrs Judith Page</PERSON>,Mrs Judith Page
+<PERSON>Mrs Cox</PERSON>,Mrs Cox
+<PERSON>Derek Carroll</PERSON>,Derek Carroll
+<PERSON>Selina Mackenzie</PERSON>,Selina Mackenzie
+<PERSON>Mrs Ashton</PERSON>,Mrs Ashton
+<PERSON>Mrs Roberts</PERSON>,Mrs Roberts
+<PERSON>Dudley</PERSON>,Dudley
+<PERSON>Mrs Fletcher</PERSON>,Mrs Fletcher
+<PERSON>Cooper</PERSON>,Cooper
+<PERSON>Mrs Conway</PERSON>,Mrs Conway
+<PERSON>Mrs Massey</PERSON>,Mrs Massey
+<PERSON>Carol Chapman</PERSON>,Carol Chapman
+<PERSON>Mrs Ryan</PERSON>,Mrs Ryan
+<PERSON>Winifred Mellor</PERSON>,Winifred Mellor
+<PERSON>Mary Ogden</PERSON>,Mary Ogden
+<PERSON>Lilian Shaw</PERSON>,Lilian Shaw
+<PERSON>Mrs Eileen Cox</PERSON>,Mrs Eileen Cox
+<PERSON>Margaret Waldron</PERSON>,Margaret Waldron
+<PERSON>Brooke</PERSON>,Brooke
+<PERSON>Mrs Lily Crossley</PERSON>,Mrs Lily Crossley
+<PERSON>Mrs Stafford</PERSON>,Mrs Stafford
+<PERSON>Mrs Lomas</PERSON>,Mrs Lomas
+<PERSON>Mary Emma Hamer</PERSON>,Mary Emma Hamer
+<PERSON>Michael Grieve</PERSON>,Michael Grieve
+<PERSON>Mrs Rose Adshead</PERSON>,Mrs Rose Adshead
+<PERSON>Annie Watkins</PERSON>,Annie Watkins
+<PERSON>Mrs Elizabeth Shawcross</PERSON>,Mrs Elizabeth Shawcross
+<PERSON>Mrs Shawcross</PERSON>,Mrs Shawcross
+<PERSON>Mr West</PERSON>,Mr West
+<PERSON>Mrs Maria West</PERSON>,Mrs Maria West
+<PERSON>Mrs Norma Miles</PERSON>,Mrs Norma Miles
+<PERSON>Mrs Ellen Hanratty</PERSON>,Mrs Ellen Hanratty
+<PERSON>Mrs Alice Thomas</PERSON>,Mrs Alice Thomas
+<PERSON>Mrs Pamela Hillier</PERSON>,Mrs Pamela Hillier
+<PERSON>Mrs Cocker</PERSON>,Mrs Cocker
+<PERSON>Mrs Marjorie Waller</PERSON>,Mrs Marjorie Waller
+<PERSON>James Slater</PERSON>,James Slater
+<PERSON>Mrs Susan Duggan</PERSON>,Mrs Susan Duggan
+<PERSON>Mrs Brown</PERSON>,Mrs Brown
+<PERSON>Crompton</PERSON>,Crompton
+<PERSON>Mrs Bardsley</PERSON>,Mrs Bardsley
+<PERSON>Battersby</PERSON>,Battersby
+<PERSON>George McKeating</PERSON>,George McKeating
+<PERSON>Shelmerdine</PERSON>,Shelmerdine
+<PERSON>Philip Gordon</PERSON>,Philip Gordon
+<PERSON>Todmorden</PERSON>,Todmorden
+<PERSON>Michael Shorrock</PERSON>,Michael Shorrock
+<PERSON>Annie Elizabeth Golds</PERSON>,Annie Elizabeth Golds
+<PERSON>Alfred Isherwood</PERSON>,Alfred Isherwood
+<PERSON>Horsfall</PERSON>,Horsfall
+<PERSON>Mrs Brady</PERSON>,Mrs Brady
+<PERSON>James Joseph King</PERSON>,James Joseph King
+<PERSON>Nick Rawson</PERSON>,Nick Rawson
+<PERSON>Mrs Hanratty</PERSON>,Mrs Hanratty
+<PERSON>Margaret Sankey</PERSON>,Margaret Sankey
+<PERSON>Mrs Rostron</PERSON>,Mrs Rostron
+<PERSON>Mrs Lucy Virgin</PERSON>,Mrs Lucy Virgin
+<PERSON>McQuay</PERSON>,McQuay
+<PERSON>Mrs Mary Dudley</PERSON>,Mrs Mary Dudley
+<PERSON>Mrs Prestwich</PERSON>,Mrs Prestwich
+<PERSON>Peter Lewis</PERSON>,Peter Lewis
+<PERSON>Mrs Renate Overton</PERSON>,Mrs Renate Overton
+<PERSON>John Howcroft</PERSON>,John Howcroft
+<PERSON>Dorothy Foley</PERSON>,Dorothy Foley
+<PERSON>Mrs Winterbottom</PERSON>,Mrs Winterbottom
+<PERSON>Kucharczyk</PERSON>,Kucharczyk
+<PERSON>Mrs Brassington</PERSON>,Mrs Brassington
+<PERSON>Neil Phillips</PERSON>,Neil Phillips
+<PERSON>Mrs Kathleen Grundy</PERSON>,Mrs Kathleen Grundy
+<PERSON>Grieve</PERSON>,Grieve
+<PERSON>Mrs Julie Denham</PERSON>,Mrs Julie Denham
+<PERSON>Mrs Enid Otter</PERSON>,Mrs Enid Otter
+<PERSON>John Green</PERSON>,John Green
+<PERSON>Mrs Taylor</PERSON>,Mrs Taylor
+<PERSON>Mrs Cheetham</PERSON>,Mrs Cheetham
+<PERSON>Cicely</PERSON>,Cicely
+<PERSON>Johnson Richard</PERSON>,Johnson Richard
+<PERSON>Laura Kathleen Wagstaff</PERSON>,Laura Kathleen Wagstaff
+<PERSON>Quinn</PERSON>,Quinn
+<PERSON>Lewis</PERSON>,Lewis
+<PERSON>Philip Humberstone</PERSON>,Philip Humberstone
+<PERSON>Christine Simpson</PERSON>,Christine Simpson
+<PERSON>Elizabeth Pearce</PERSON>,Elizabeth Pearce
+<PERSON>Judith Page</PERSON>,Judith Page
+<PERSON>Mrs Rose Garlick</PERSON>,Mrs Rose Garlick
+<PERSON>John Dacre</PERSON>,John Dacre
+<PERSON>Barker Elsie</PERSON>,Barker Elsie
+<PERSON>Ernest Colin Ralphs</PERSON>,Ernest Colin Ralphs
+<PERSON>Richard Fitton</PERSON>,Richard Fitton
+<PERSON>Gerard McDermott</PERSON>,Gerard McDermott
+<PERSON>Mrs Beatrice Toft</PERSON>,Mrs Beatrice Toft
+<PERSON>Mrs Dora Ashton</PERSON>,Mrs Dora Ashton
+<PERSON>Fredrick</PERSON>,Fredrick
+<PERSON>Mrs Davies</PERSON>,Mrs Davies
+<PERSON>Phyllis Oxley</PERSON>,Phyllis Oxley
+<PERSON>Marie</PERSON>,Marie
+<PERSON>Reade</PERSON>,Reade
+<PERSON>Dacre</PERSON>,Dacre
+<PERSON>Joan Harding</PERSON>,Joan Harding
+<PERSON>Moysey</PERSON>,Moysey
+<PERSON>Mrs Tomlin</PERSON>,Mrs Tomlin
+<PERSON>Moss</PERSON>,Moss
+<PERSON>Norah Nuttall</PERSON>,Norah Nuttall
+<PERSON>Elsie Scott</PERSON>,Elsie Scott
+<PERSON>Hardman</PERSON>,Hardman
+<PERSON>Mrs Middleton</PERSON>,Mrs Middleton
+<PERSON>Belk</PERSON>,Belk
+<PERSON>Mrs Alice Kitchen</PERSON>,Mrs Alice Kitchen
+<PERSON>Pomfret</PERSON>,Pomfret
+<PERSON>Burgess</PERSON>,Burgess
+<PERSON>Mrs Hutchinson</PERSON>,Mrs Hutchinson
+<PERSON>Lingard</PERSON>,Lingard
+<PERSON>Mrs Dudley</PERSON>,Mrs Dudley
+<PERSON>Mrs Ellis</PERSON>,Mrs Ellis
+<PERSON>Henry Palin</PERSON>,Henry Palin
+<PERSON>Mabel Shawcross</PERSON>,Mabel Shawcross
+<PERSON>Harriet Jerram</PERSON>,Harriet Jerram
+<PERSON>Harold Bramwell</PERSON>,Harold Bramwell
+<PERSON>Mrs Nuttall</PERSON>,Mrs Nuttall
+<PERSON>Ronald Pickford</PERSON>,Ronald Pickford
+<PERSON>Mrs Morley</PERSON>,Mrs Morley
+<PERSON>Mrs Mildred Robinson</PERSON>,Mrs Mildred Robinson
+<PERSON>Joan Milray Harding</PERSON>,Joan Milray Harding
+<PERSON>David Bunn</PERSON>,David Bunn
+<PERSON>Mrs Ivy Lomas</PERSON>,Mrs Ivy Lomas
+<PERSON>Patel</PERSON>,Patel
+<PERSON>Mrs May Slater</PERSON>,Mrs May Slater
+<PERSON>Mrs Marion Carradice</PERSON>,Mrs Marion Carradice
+<PERSON>Mrs Hall</PERSON>,Mrs Hall
+<PERSON>Dorothy Fletcher</PERSON>,Dorothy Fletcher
+<PERSON>Percy Ward</PERSON>,Percy Ward
+<PERSON>Kathleen Grundy</PERSON>,Kathleen Grundy
+<PERSON>Kathlyn Kaye</PERSON>,Kathlyn Kaye
+<PERSON>Helen Owen</PERSON>,Helen Owen
+<PERSON>Paul Gilroy</PERSON>,Paul Gilroy
+<PERSON>Mrs Jacqueline Slaney</PERSON>,Mrs Jacqueline Slaney
+<PERSON>Alan Rowlands</PERSON>,Alan Rowlands
+<PERSON>Healthcall</PERSON>,Healthcall
+<PERSON>Mrs Ward</PERSON>,Mrs Ward
+<PERSON>Joan May Melia</PERSON>,Joan May Melia
+<PERSON>Mary Hamer</PERSON>,Mary Hamer
+<PERSON>Alan Banks</PERSON>,Alan Banks
+<PERSON>Richard Lissack</PERSON>,Richard Lissack
+<PERSON>John Rutherford</PERSON>,John Rutherford
+<PERSON>Mrs Mary Tomlin</PERSON>,Mrs Mary Tomlin
+<PERSON>Mrs Elsie Dean</PERSON>,Mrs Elsie Dean
+<PERSON>Mrs Gladys Roberts</PERSON>,Mrs Gladys Roberts
+<PERSON>William Bennett</PERSON>,William Bennett
+<PERSON>Jones</PERSON>,Jones
+<PERSON>Anthony Mazzag</PERSON>,Anthony Mazzag
+<PERSON>Mrs Margaret Townsend</PERSON>,Mrs Margaret Townsend
+<PERSON>Mrs Hadfield</PERSON>,Mrs Hadfield
+<PERSON>Nick Holroyd</PERSON>,Nick Holroyd
+<PERSON>Oonagh McIntosh</PERSON>,Oonagh McIntosh
+<PERSON>Mrs Grundy</PERSON>,Mrs Grundy
+<PERSON>Mrs Dalpiaz</PERSON>,Mrs Dalpiaz
+<PERSON>Ada Warburton</PERSON>,Ada Warburton
+<PERSON>Milne</PERSON>,Milne
+<PERSON>Mrs Jacqueline Gee</PERSON>,Mrs Jacqueline Gee
+<PERSON>Mellor Samuel</PERSON>,Mellor Samuel
+<PERSON>Mrs Arrowsmith</PERSON>,Mrs Arrowsmith
+<PERSON>Avril Sparkes</PERSON>,Avril Sparkes
+<PERSON>Mary Dudley</PERSON>,Mary Dudley
+<PERSON>Mrs Erla Copeland</PERSON>,Mrs Erla Copeland
+<PERSON>Caroline Mary Taylor</PERSON>,Caroline Mary Taylor
+<PERSON>Mrs Kate Oldfield</PERSON>,Mrs Kate Oldfield
+<PERSON>Lily Broadbent</PERSON>,Lily Broadbent
+<PERSON>Mary Andrew</PERSON>,Mary Andrew
+<PERSON>John Turner</PERSON>,John Turner
+<PERSON>Keith Hillier</PERSON>,Keith Hillier
+<PERSON>Taylor</PERSON>,Taylor
+<PERSON>Harrison</PERSON>,Harrison
+<PERSON>Cheetham</PERSON>,Cheetham
+<PERSON>Mrs Smith</PERSON>,Mrs Smith
+<PERSON>Tingle</PERSON>,Tingle
+<PERSON>Dorothy Andrew</PERSON>,Dorothy Andrew
+<PERSON>Mrs Eileen Crompton</PERSON>,Mrs Eileen Crompton
+<PERSON>Kevin Naylor</PERSON>,Kevin Naylor
+<PERSON>Mrs Pearce</PERSON>,Mrs Pearce
+<PERSON>Toft</PERSON>,Toft
+<PERSON>Isherwood</PERSON>,Isherwood
+<PERSON>John Grenville</PERSON>,John Grenville
+<PERSON>Jones David</PERSON>,Jones David
+<PERSON>Geoffrey Bills</PERSON>,Geoffrey Bills
+<PERSON>Primrose Shipman</PERSON>,Primrose Shipman
+<PERSON>Lavinia Robinson</PERSON>,Lavinia Robinson
+<PERSON>Elsie</PERSON>,Elsie
+<PERSON>James Wood</PERSON>,James Wood
+<PERSON>Irene Heathcote</PERSON>,Irene Heathcote
+<PERSON>Andrew Spink</PERSON>,Andrew Spink
+<PERSON>Mrs Woodruff</PERSON>,Mrs Woodruff
+<PERSON>Mrs Heginbotham</PERSON>,Mrs Heginbotham
+<PERSON>Mrs Sparkes</PERSON>,Mrs Sparkes
+<PERSON>Mrs Murphy</PERSON>,Mrs Murphy
+<PERSON>Mrs Brookes</PERSON>,Mrs Brookes
+<PERSON>Jack Leslie Shelmerdine</PERSON>,Jack Leslie Shelmerdine
+<PERSON>J. Smith</PERSON>,J. Smith
+<PERSON>Ann Cooper</PERSON>,Ann Cooper
+<PERSON>Mrs Mary Haslam</PERSON>,Mrs Mary Haslam
+<PERSON>John France</PERSON>,John France
+<PERSON>Mrs Elsie Cheetham</PERSON>,Mrs Elsie Cheetham
+<PERSON>Hugo Milne</PERSON>,Hugo Milne
+<PERSON>Andrew Griffiths</PERSON>,Andrew Griffiths
+<PERSON>Charles MacConnell</PERSON>,Charles MacConnell
+<PERSON>Sarah Adkinson</PERSON>,Sarah Adkinson
+<PERSON>Bertha Moss</PERSON>,Bertha Moss
+<PERSON>Agnes Oldham</PERSON>,Agnes Oldham
+<PERSON>Winterbottom</PERSON>,Winterbottom
+<PERSON>Mrs Carol</PERSON>,Mrs Carol
+<PERSON>Fowden</PERSON>,Fowden
+<PERSON>Mrs Betty Clayton</PERSON>,Mrs Betty Clayton
+<PERSON>Frederick Dentith</PERSON>,Frederick Dentith
+<PERSON>Eddleston</PERSON>,Eddleston
+<PERSON>Baker</PERSON>,Baker
+<PERSON>Amy Whitehead</PERSON>,Amy Whitehead
+<PERSON>Edwin Fowden</PERSON>,Edwin Fowden
+<PERSON>Bramwell</PERSON>,Bramwell
+<PERSON>Mrs Martha Marley</PERSON>,Mrs Martha Marley
+<PERSON>Meredith Oscar</PERSON>,Meredith Oscar
+<PERSON>Mrs Susan Davies</PERSON>,Mrs Susan Davies
+<PERSON>Anne Ralphs</PERSON>,Anne Ralphs
+<PERSON>Mrs Mary Bennett</PERSON>,Mrs Mary Bennett
+<PERSON>Rodney Turner</PERSON>,Rodney Turner
+<PERSON>Cartwright Hannah</PERSON>,Cartwright Hannah
+<PERSON>Edward Walker</PERSON>,Edward Walker
+<PERSON>Mrs Grimshaw</PERSON>,Mrs Grimshaw
+<PERSON>Johnston Leah</PERSON>,Johnston Leah
+<PERSON>Mrs Bennett</PERSON>,Mrs Bennett
+<PERSON>Mrs Kathleen Wagstaff</PERSON>,Mrs Kathleen Wagstaff
+<PERSON>Marjorie Waller</PERSON>,Marjorie Waller
+<PERSON>Michael Jones</PERSON>,Michael Jones
+<PERSON>Tait</PERSON>,Tait
+<PERSON>David Eccles</PERSON>,David Eccles
+<PERSON>Mrs Irene Heathcote</PERSON>,Mrs Irene Heathcote
+<PERSON>• Shipman</PERSON>,• Shipman
+<PERSON>Susan Cropper</PERSON>,Susan Cropper
+<PERSON>Eileen Crompton</PERSON>,Eileen Crompton
+<PERSON>Roberts</PERSON>,Roberts
+<PERSON>Mrs Marley</PERSON>,Mrs Marley
+<PERSON>Mrs Carol Dalpiaz</PERSON>,Mrs Carol Dalpiaz
+<PERSON>Maria West</PERSON>,Maria West
+<PERSON>Mrs Elizabeth Fletcher</PERSON>,Mrs Elizabeth Fletcher
+<PERSON>Mrs Lilian Cullen</PERSON>,Mrs Lilian Cullen
+<PERSON>Mrs Charlotte Bennison</PERSON>,Mrs Charlotte Bennison
+<PERSON>Mrs Foley</PERSON>,Mrs Foley
+<PERSON>Mrs Elsie Platt</PERSON>,Mrs Elsie Platt
+<PERSON>William Catlow</PERSON>,William Catlow
+<PERSON>David Smith</PERSON>,David Smith
+<PERSON>Mrs Rogers</PERSON>,Mrs Rogers
+<PERSON>Nuttall</PERSON>,Nuttall
+<PERSON>Mr Justice Forbes</PERSON>,Mr Justice Forbes
+<PERSON>Peter</PERSON>,Peter
+<PERSON>Mrs Llewellyn</PERSON>,Mrs Llewellyn
+<PERSON>Mrs Alice Mary Jones</PERSON>,Mrs Alice Mary Jones
+<PERSON>Joseph Everall</PERSON>,Joseph Everall
+<PERSON>Sidney Smith</PERSON>,Sidney Smith
+<PERSON>Sheila Ward</PERSON>,Sheila Ward
+<PERSON>Mrs Pleva</PERSON>,Mrs Pleva
+<PERSON>Joseph Leigh</PERSON>,Joseph Leigh
+<PERSON>Joan Dean</PERSON>,Joan Dean
+<PERSON>Mrs Shipman</PERSON>,Mrs Shipman
+<PERSON>Father Dennis Maher</PERSON>,Father Dennis Maher
+<PERSON>Miss Fox</PERSON>,Miss Fox
+<PERSON>Samuel Mellor</PERSON>,Samuel Mellor
+<PERSON>Genevieve Challoner</PERSON>,Genevieve Challoner
+<PERSON>Ann Alexander</PERSON>,Ann Alexander
+<PERSON>Fanny Nichols</PERSON>,Fanny Nichols
+<PERSON>Bennett</PERSON>,Bennett
+<PERSON>Dora Ashton</PERSON>,Dora Ashton
+<PERSON>Beatrice Toft</PERSON>,Beatrice Toft
+<PERSON>Ernest Ralphs</PERSON>,Ernest Ralphs
+<PERSON>Ceporex</PERSON>,Ceporex
+<PERSON>Mr Wagstaff</PERSON>,Mr Wagstaff
+<PERSON>Dr Bunn</PERSON>,Dr Bunn
+<PERSON>Crossley</PERSON>,Crossley
+<PERSON>George Charnock</PERSON>,George Charnock
+<PERSON>Fox</PERSON>,Fox
+<PERSON>Miss Ward</PERSON>,Miss Ward
+<PERSON>Mrs Elizabeth Rogers</PERSON>,Mrs Elizabeth Rogers
+<PERSON>Mrs Nellie Bardsley</PERSON>,Mrs Nellie Bardsley
+<PERSON>Joseph Frank Wilcockson</PERSON>,Joseph Frank Wilcockson
+<PERSON>Mrs Lizzie Adams</PERSON>,Mrs Lizzie Adams
+<PERSON>Mrs Jessie Wagstaff</PERSON>,Mrs Jessie Wagstaff
+<PERSON>Mrs Wibberley</PERSON>,Mrs Wibberley
+<PERSON>Mrs Hurst</PERSON>,Mrs Hurst
+<PERSON>Mrs Edith Wibberley</PERSON>,Mrs Edith Wibberley
+<PERSON>Mrs Fogg</PERSON>,Mrs Fogg
+<PERSON>Howat</PERSON>,Howat
+<PERSON>Richard Baker</PERSON>,Richard Baker
+<PERSON>Christopher Melton</PERSON>,Christopher Melton
+<PERSON>Maureen Ward</PERSON>,Maureen Ward
+<PERSON>Thorley</PERSON>,Thorley
+<PERSON>Mrs Barbara Taylor</PERSON>,Mrs Barbara Taylor
+<PERSON>Monica Sparkes</PERSON>,Monica Sparkes
+<PERSON>Thomas Condon</PERSON>,Thomas Condon
+<PERSON>Winifred Arrowsmith</PERSON>,Winifred Arrowsmith
+<PERSON>Mrs Valerie Cuthbert</PERSON>,Mrs Valerie Cuthbert
+<PERSON>Mrs Overton</PERSON>,Mrs Overton
+<PERSON>Peter Ovcar-Robinson</PERSON>,Peter Ovcar-Robinson
+<PERSON>Ian Napier</PERSON>,Ian Napier
+<PERSON>Mrs Sellars</PERSON>,Mrs Sellars
+<PERSON>Mrs Unsworth</PERSON>,Mrs Unsworth
+<PERSON>Mrs Slater</PERSON>,Mrs Slater
+<PERSON>Mrs Nellie Mullen</PERSON>,Mrs Nellie Mullen
+<PERSON>Julie Clarey</PERSON>,Julie Clarey
+<PERSON>Mrs Margaret Walker</PERSON>,Mrs Margaret Walker
+<PERSON>Joan Melia</PERSON>,Joan Melia
+<PERSON>Mrs Renwick</PERSON>,Mrs Renwick
+<PERSON>Eileen Robinson</PERSON>,Eileen Robinson
+<PERSON>Mrs Powers</PERSON>,Mrs Powers
+<PERSON>Mrs Hamer</PERSON>,Mrs Hamer
+<PERSON>Mrs Gladys Saunders</PERSON>,Mrs Gladys Saunders
+<PERSON>Edna Llewellyn</PERSON>,Edna Llewellyn
+<PERSON>Kennedy</PERSON>,Kennedy
+<PERSON>Barlow Charles Henry</PERSON>,Barlow Charles Henry
+<PERSON>Dora Elizabeth Ashton</PERSON>,Dora Elizabeth Ashton
+<PERSON>Mrs Anne Ralphs</PERSON>,Mrs Anne Ralphs
+<PERSON>Mrs Turner</PERSON>,Mrs Turner
+<PERSON>Stafford</PERSON>,Stafford
+<PERSON>Derek Steele</PERSON>,Derek Steele
+<PERSON>John Fitzgerald</PERSON>,John Fitzgerald
+<PERSON>Wilcockson</PERSON>,Wilcockson
+<PERSON>Mrs Ada Hilton</PERSON>,Mrs Ada Hilton
+<PERSON>Mrs Melia</PERSON>,Mrs Melia
+<PERSON>Mrs Doreen Laithwaite</PERSON>,Mrs Doreen Laithwaite
+<PERSON>Kathleen Wagstaff</PERSON>,Kathleen Wagstaff
+<PERSON>Ellen Higson</PERSON>,Ellen Higson
+<PERSON>Mrs Mary Ball</PERSON>,Mrs Mary Ball
+<PERSON>Mrs Mary Smith</PERSON>,Mrs Mary Smith
+<PERSON>Rutherford</PERSON>,Rutherford
+<PERSON>Kate Blackwell</PERSON>,Kate Blackwell
+<PERSON>Mrs Lavinia Wharmby</PERSON>,Mrs Lavinia Wharmby
+<PERSON>Unsworth</PERSON>,Unsworth
+<PERSON>Jane Ellen</PERSON>,Jane Ellen
+<PERSON>Ruth Stockley</PERSON>,Ruth Stockley
+<PERSON>Mrs Hilda Hibbert</PERSON>,Mrs Hilda Hibbert
+<PERSON>Mrs Elizabeth Burke</PERSON>,Mrs Elizabeth Burke
+<PERSON>Christopher</PERSON>,Christopher
+<PERSON>Mrs Mavis Pickup</PERSON>,Mrs Mavis Pickup
+<PERSON>Warren</PERSON>,Warren
+<PERSON>Mrs Dean</PERSON>,Mrs Dean
+<PERSON>Renate Overton</PERSON>,Renate Overton
+<PERSON>Mrs Hibbert</PERSON>,Mrs Hibbert
+<PERSON>Neal</PERSON>,Neal
+<PERSON>Emma Smith</PERSON>,Emma Smith
+<PERSON>Chadwick Wilfred</PERSON>,Chadwick Wilfred
+<PERSON>Mrs Irene</PERSON>,Mrs Irene
+<PERSON>Eva Lyons</PERSON>,Eva Lyons
+<PERSON>James Edward Barnes</PERSON>,James Edward Barnes
+<PERSON>Mrs Lyons</PERSON>,Mrs Lyons
+<PERSON>Elizabeth Baddeley</PERSON>,Elizabeth Baddeley
+<PERSON>Edith Brady</PERSON>,Edith Brady
+<PERSON>Phyllis Holt</PERSON>,Phyllis Holt
+<PERSON>Elaine Oswald</PERSON>,Elaine Oswald
+<PERSON>Jane Jones</PERSON>,Jane Jones
+<PERSON>Mrs Chapman</PERSON>,Mrs Chapman
+<PERSON>Squire Barber</PERSON>,Squire Barber
+<PERSON>Kathleen McDonald</PERSON>,Kathleen McDonald
+<PERSON>Green</PERSON>,Green
+<PERSON>Mrs Crompton</PERSON>,Mrs Crompton
+<PERSON>Mr Lilley</PERSON>,Mr Lilley
+<PERSON>Laura Victoria Parkin</PERSON>,Laura Victoria Parkin
+<PERSON>Humberstone</PERSON>,Humberstone
+<PERSON>Lomas</PERSON>,Lomas
+<PERSON>Mrs Jessie Morley</PERSON>,Mrs Jessie Morley
+<PERSON>Albert Cheetham</PERSON>,Albert Cheetham
+<PERSON>Jim Sturman</PERSON>,Jim Sturman
+<PERSON>Mrs Mellor</PERSON>,Mrs Mellor
+<PERSON>Mrs Forder</PERSON>,Mrs Forder
+<PERSON>Mrs Amy Whitehead</PERSON>,Mrs Amy Whitehead
+<PERSON>Mrs Toft</PERSON>,Mrs Toft
+<PERSON>Mrs Sonja Jones</PERSON>,Mrs Sonja Jones
+<PERSON>Elizabeth Hunter</PERSON>,Elizabeth Hunter
+<PERSON>Elizabeth Ashworth</PERSON>,Elizabeth Ashworth
+<PERSON>Mrs Marjorie Stafford</PERSON>,Mrs Marjorie Stafford
+<PERSON>Charles Killan</PERSON>,Charles Killan
+<PERSON>Lloyd George</PERSON>,Lloyd George
+<PERSON>Mr Cheetham</PERSON>,Mr Cheetham
+<PERSON>Mrs O’Neill</PERSON>,Mrs O’Neill
+<PERSON>Hillier</PERSON>,Hillier
+<PERSON>Mrs Ada Ashworth</PERSON>,Mrs Ada Ashworth
+<PERSON>Mrs Pomfret</PERSON>,Mrs Pomfret
+<PERSON>Mrs Alison Forder</PERSON>,Mrs Alison Forder
+<PERSON>Steele</PERSON>,Steele
+<PERSON>Marion Gaskell</PERSON>,Marion Gaskell
+<PERSON>Largactil</PERSON>,Largactil
+<PERSON>Jones Alice Mary</PERSON>,Jones Alice Mary
+<PERSON>Halliday</PERSON>,Halliday
+<PERSON>Leah Pickering</PERSON>,Leah Pickering
+<PERSON>Mrs Olive Heginbotham</PERSON>,Mrs Olive Heginbotham
+<PERSON>George Davies</PERSON>,George Davies
+<PERSON>Mrs Crossley</PERSON>,Mrs Crossley
+<PERSON>Vera Bramwell</PERSON>,Vera Bramwell
+<PERSON>Mrs Alice Gorton</PERSON>,Mrs Alice Gorton
+<PERSON>Morgan</PERSON>,Morgan
+<PERSON>Jack</PERSON>,Jack
+<PERSON>Woodruff</PERSON>,Woodruff
+<PERSON>Challinor Ivy Elizabeth</PERSON>,Challinor Ivy Elizabeth
+<PERSON>William Givens</PERSON>,William Givens
+<PERSON>Irene Chapman</PERSON>,Irene Chapman
+<PERSON>Michael Woodruff</PERSON>,Michael Woodruff
+<PERSON>HOLMES</PERSON>,HOLMES
+<PERSON>Lyons</PERSON>,Lyons
+<PERSON>Lilley</PERSON>,Lilley
+<PERSON>Ada Matley Hilton</PERSON>,Ada Matley Hilton
+<PERSON>S. Smith</PERSON>,S. Smith
+<PERSON>Sarah Ashworth</PERSON>,Sarah Ashworth
+<PERSON>Mrs Brenda Hurst</PERSON>,Mrs Brenda Hurst
+<PERSON>Mrs Marjorie Parker</PERSON>,Mrs Marjorie Parker
+<PERSON>Charles Howorth</PERSON>,Charles Howorth
+<PERSON>Michael Connors</PERSON>,Michael Connors
+<PERSON>Mrs Lilley</PERSON>,Mrs Lilley
+<PERSON>Mrs Whitehead</PERSON>,Mrs Whitehead
+<PERSON>Ralph Unsworth</PERSON>,Ralph Unsworth
+<PERSON>Slater</PERSON>,Slater
+<PERSON>Grenville</PERSON>,Grenville
+<PERSON>Wojciech Kucharczyk</PERSON>,Wojciech Kucharczyk
+<PERSON>Samuel Mills</PERSON>,Samuel Mills
+<PERSON>Brenda Lewin</PERSON>,Brenda Lewin
+<PERSON>Hilda Fitton</PERSON>,Hilda Fitton
+<PERSON>Mrs Wagstaff</PERSON>,Mrs Wagstaff
+<PERSON>Mrs Moss</PERSON>,Mrs Moss
+<PERSON>Thomas Moult</PERSON>,Thomas Moult
+<PERSON>Mrs Kaye</PERSON>,Mrs Kaye
+<PERSON>Lizzie Adams</PERSON>,Lizzie Adams
+<PERSON>Leah Fogg</PERSON>,Leah Fogg
+<PERSON>Mrs Oldham</PERSON>,Mrs Oldham
+<PERSON>Mrs Oswald</PERSON>,Mrs Oswald
+<PERSON>John Quinn</PERSON>,John Quinn
+<PERSON>Mary Coutts</PERSON>,Mary Coutts
+<PERSON>Mrs Elsie Harrop</PERSON>,Mrs Elsie Harrop
+<PERSON>Thomas Cheetham</PERSON>,Thomas Cheetham
+<PERSON>Hilda Couzens</PERSON>,Hilda Couzens
+<PERSON>Kellett</PERSON>,Kellett
+<PERSON>Mrs Fanny Nichols</PERSON>,Mrs Fanny Nichols
+<PERSON>Mrs Claire Hutchinson</PERSON>,Mrs Claire Hutchinson
+<PERSON>Mrs Jackson</PERSON>,Mrs Jackson
+<PERSON>Alice Black</PERSON>,Alice Black
+<PERSON>Margaret Wilmore</PERSON>,Margaret Wilmore
